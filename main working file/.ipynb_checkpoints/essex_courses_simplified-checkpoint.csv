@@ -1,0 +1,686 @@
+course_url,course_name,degree_type
+https://www.essex.ac.uk/courses/UG00001/1/BSc-Accounting,Accounting,BSc
+https://www.essex.ac.uk/courses/PG00425/1/MSc-Accounting,Accounting,MSc
+https://www.essex.ac.uk/courses/PR00854/2/PhD-Accounting,Accounting,PhD
+https://www.essex.ac.uk/courses/UG00002/1/BSc-Accounting-and-Finance,Accounting And Finance,BSc
+https://www.essex.ac.uk/courses/PR00855/5/PhD-Accounting-and-Finance,Accounting And Finance,PhD
+https://www.essex.ac.uk/courses/PR00854/1/PhD-Accounting,Accounting,PhD
+https://www.essex.ac.uk/courses/UG00002/2/BSc-Accounting-and-Finance,Accounting And Finance,BSc
+https://www.essex.ac.uk/courses/UG00002/3/Integrated-Master-in-Accounting-Accounting-and-Finance,Master In Accounting Accounting And Finance,Integrated
+https://www.essex.ac.uk/courses/PG00425/4/MRes-Accounting,Accounting,MRes
+https://www.essex.ac.uk/courses/PR00855/1/PhD-Accounting-and-Finance,Accounting And Finance,PhD
+https://www.essex.ac.uk/courses/PG00427/1/MSc-Financial-Economics-and-Accounting,Financial Economics And Accounting,MSc
+https://www.essex.ac.uk/courses/PG00426/1/MSc-Accounting-and-Finance,Accounting And Finance,MSc
+https://www.essex.ac.uk/courses/PG00428/1/MSc-Accounting-and-Financial-Management,Accounting And Financial Management,MSc
+https://www.essex.ac.uk/courses/UG00418/1/BA-World-Performance,World Performance,BA
+https://www.essex.ac.uk/courses/UG00411/1/Certificate-of-HE-Acting-for-Stage-and-Screen,Of He Acting For Stage And Screen,Certificate
+https://www.essex.ac.uk/courses/UG00011/1/BA-Acting-and-Fight-Performance,Acting And Fight Performance,BA
+https://www.essex.ac.uk/courses/PR01342/1/PhD-Drama-and-Performance,Drama And Performance,PhD
+https://www.essex.ac.uk/courses/PG00830/2/MFA-Theatre-Directing,Theatre Directing,MFA
+https://www.essex.ac.uk/courses/PR01346/1/PhD-Drama-and-Performance-Practice-as-Research,Drama And Performance Practice As Research,PhD
+https://www.essex.ac.uk/courses/UG01619/1/BA-Stage-Management,Stage Management,BA
+https://www.essex.ac.uk/courses/UG00009/2/BA-Acting-and-Community-Engagement,Acting And Community Engagement,BA
+https://www.essex.ac.uk/courses/PG00147/2/MFA-Acting-International,Acting International,MFA
+https://www.essex.ac.uk/courses/UG00337/1/BA-Acting-and-Physical-Theatre,Acting And Physical Theatre,BA
+https://www.essex.ac.uk/courses/PG00431/1/MA-Acting,Acting,MA
+https://www.essex.ac.uk/courses/UG00404/1/BA-Stage-and-Production-Management,Stage And Production Management,BA
+https://www.essex.ac.uk/courses/UG00008/1/BA-Acting,Acting,BA
+https://www.essex.ac.uk/courses/PG00147/1/MA-Acting-International,Acting International,MA
+https://www.essex.ac.uk/courses/PG01497/2/MFA-Acting-for-Digital-Media,Acting For Digital Media,MFA
+https://www.essex.ac.uk/courses/PG01644/1/MFA-Acting-with-Digital-Media,Acting With Digital Media,MFA
+https://www.essex.ac.uk/courses/PG01497/1/MA-Acting-for-Digital-Media,Acting For Digital Media,MA
+https://www.essex.ac.uk/courses/UG00010/1/BA-Acting-and-Contemporary-Theatre,Acting And Contemporary Theatre,BA
+https://www.essex.ac.uk/courses/UG00008/2/BA-Acting,Acting,BA
+https://www.essex.ac.uk/courses/PG00830/1/MA-Theatre-Directing,Theatre Directing,MA
+https://www.essex.ac.uk/courses/UG01119/1/BA-Creative-Producing-Theatre-and-Short-Film,Creative Producing Theatre And Short Film,BA
+https://www.essex.ac.uk/courses/PG00610/1/MSc-Mathematics-and-Finance,Mathematics And Finance,MSc
+https://www.essex.ac.uk/courses/PG01081/1/MSc-Actuarial-Science,Actuarial Science,MSc
+https://www.essex.ac.uk/courses/PG01081/2/Postgraduate-Diploma-Actuarial-Science,Diploma Actuarial Science,Postgraduate
+https://www.essex.ac.uk/courses/UG00012/1/BSc-Actuarial-Science,Actuarial Science,BSc
+https://www.essex.ac.uk/courses/UG00168/1/BSc-Finance-and-Mathematics,Finance And Mathematics,BSc
+https://www.essex.ac.uk/courses/UG01421/1/Integrated-Master-in-Science-Actuarial-Science-and-Data-Science,Master In Science Actuarial Science And Data Science,Integrated
+https://www.essex.ac.uk/courses/PR01041/5/PhD-Actuarial-Science,Actuarial Science,PhD
+https://www.essex.ac.uk/courses/PR01041/1/PhD-Actuarial-Science,Actuarial Science,PhD
+https://www.essex.ac.uk/courses/PR01041/4/PhD-Actuarial-Science,Actuarial Science,PhD
+https://www.essex.ac.uk/courses/PG00610/2/Postgraduate-Diploma-Mathematics-and-Finance,Diploma Mathematics And Finance,Postgraduate
+https://www.essex.ac.uk/courses/UG00015/1/BA-American-Studies-United-States-with-Film,American Studies United States With Film,BA
+https://www.essex.ac.uk/courses/UG00014/2/BA-American-Studies-United-States,American Studies United States,BA
+https://www.essex.ac.uk/courses/UG00090/2/BA-Criminology-and-American-Studies,Criminology And American Studies,BA
+https://www.essex.ac.uk/courses/UG00090/1/BA-Criminology-and-American-Studies,Criminology And American Studies,BA
+https://www.essex.ac.uk/courses/UG00015/2/BA-American-Studies-United-States-with-Film,American Studies United States With Film,BA
+https://www.essex.ac.uk/courses/UG00014/1/BA-American-Studies-United-States,American Studies United States,BA
+https://www.essex.ac.uk/courses/UG00021/3/Integrated-Master-in-Art-History-Art-History,Master In Art History Art History,Integrated
+https://www.essex.ac.uk/courses/UG00022/1/BA-Art-History-and-History,Art History And History,BA
+https://www.essex.ac.uk/courses/PR00866/2/MPhil-Art-History-and-Theory,Art History And Theory,MPhil
+https://www.essex.ac.uk/courses/PR00866/4/MA-by-Dissertation-Art-History-and-Theory,By Dissertation Art History And Theory,MA
+https://www.essex.ac.uk/courses/UG00165/1/BA-Film-Studies-and-Art-History,Film Studies And Art History,BA
+https://www.essex.ac.uk/courses/UG00322/1/BA-Philosophy-and-Art-History,Philosophy And Art History,BA
+https://www.essex.ac.uk/courses/UG01434/1/BA-Curating-with-History,Curating With History,BA
+https://www.essex.ac.uk/courses/UG01045/1/BA-Curating,Curating,BA
+https://www.essex.ac.uk/courses/PG00591/1/MA-Curating,Curating,MA
+https://www.essex.ac.uk/courses/UG00248/2/BA-Literature-and-Art-History,Literature And Art History,BA
+https://www.essex.ac.uk/courses/UG00248/1/BA-Literature-and-Art-History,Literature And Art History,BA
+https://www.essex.ac.uk/courses/UG01439/1/BA-Curating-Heritage-and-Human-Rights,Curating Heritage And Human Rights,BA
+https://www.essex.ac.uk/courses/UG00021/2/BA-Art-History,Art History,BA
+https://www.essex.ac.uk/courses/UG01433/1/BA-Curating-with-Politics,Curating With Politics,BA
+https://www.essex.ac.uk/courses/UG00022/2/BA-Art-History-and-History,Art History And History,BA
+https://www.essex.ac.uk/courses/PR01065/1/PhD-Curating,Curating,PhD
+https://www.essex.ac.uk/courses/UG00165/2/BA-Film-Studies-and-Art-History,Film Studies And Art History,BA
+https://www.essex.ac.uk/courses/UG00021/1/BA-Art-History,Art History,BA
+https://www.essex.ac.uk/courses/PG00456/1/MA-Art-History-and-Theory,Art History And Theory,MA
+https://www.essex.ac.uk/courses/PR00866/1/PhD-Art-History-and-Theory,Art History And Theory,PhD
+https://www.essex.ac.uk/courses/UG01435/1/BA-Art-History-Heritage-and-Museum-Studies,Art History Heritage And Museum Studies,BA
+https://www.essex.ac.uk/courses/UG00025/1/BA-Art-History-with-Modern-Languages,Art History With Modern Languages,BA
+https://www.essex.ac.uk/courses/UG00023/2/BA-Art-History-and-Modern-Languages,Art History And Modern Languages,BA
+https://www.essex.ac.uk/courses/UG01368/1/BA-Art-History-Visual-Culture-and-Media-Studies,Art History Visual Culture And Media Studies,BA
+https://www.essex.ac.uk/courses/PG01431/1/MA-Heritage-and-Museum-Studies,Heritage And Museum Studies,MA
+https://www.essex.ac.uk/courses/PG00591/3/MA-Curating,Curating,MA
+https://www.essex.ac.uk/courses/UG00322/2/BA-Philosophy-and-Art-History,Philosophy And Art History,BA
+https://www.essex.ac.uk/courses/UG00025/2/BA-Art-History-with-Modern-Languages,Art History With Modern Languages,BA
+https://www.essex.ac.uk/courses/UG00023/1/BA-Art-History-and-Modern-Languages,Art History And Modern Languages,BA
+https://www.essex.ac.uk/courses/PR01624/3/MSc-by-Dissertation-Cancer-Biology,By Dissertation Cancer Biology,MSc
+https://www.essex.ac.uk/courses/PG01046/1/MSc-Cancer-Biology,Cancer Biology,MSc
+https://www.essex.ac.uk/courses/PG00469/1/MSc-Biotechnology,Biotechnology,MSc
+https://www.essex.ac.uk/courses/PG00686/1/MSc-Molecular-Medicine,Molecular Medicine,MSc
+https://www.essex.ac.uk/courses/PR00950/1/PhD-Molecular-Medicine,Molecular Medicine,PhD
+https://www.essex.ac.uk/courses/UG01417/1/Integrated-Master-in-Science-Biochemistry-and-Biotechnology,Master In Science Biochemistry And Biotechnology,Integrated
+https://www.essex.ac.uk/courses/UG00033/1/BSc-Biochemistry,Biochemistry,BSc
+https://www.essex.ac.uk/courses/PR00867/1/PhD-Biochemistry,Biochemistry,PhD
+https://www.essex.ac.uk/courses/PR00950/3/MSc-by-Dissertation-Molecular-Medicine,By Dissertation Molecular Medicine,MSc
+https://www.essex.ac.uk/courses/PR01624/1/PhD-Cancer-Biology,Cancer Biology,PhD
+https://www.essex.ac.uk/courses/PR00867/3/MSc-by-Dissertation-Biochemistry,By Dissertation Biochemistry,MSc
+https://www.essex.ac.uk/courses/PR00873/1/PhD-Bio-Statistics,Bio Statistics,PhD
+https://www.essex.ac.uk/courses/PR00870/1/PhD-Biological-Sciences,Biological Sciences,PhD
+https://www.essex.ac.uk/courses/PR00868/1/PhD-Bioinformatics,Bioinformatics,PhD
+https://www.essex.ac.uk/courses/PR00946/1/PhD-Microbiology,Microbiology,PhD
+https://www.essex.ac.uk/courses/PR00942/2/MPhil-Mathematical-Biology,Mathematical Biology,MPhil
+https://www.essex.ac.uk/courses/UG00102/1/BSc-Ecology-and-Environmental-Biology,Ecology And Environmental Biology,BSc
+https://www.essex.ac.uk/courses/UG00039/1/BSc-Biomedical-Science,Biomedical Science,BSc
+https://www.essex.ac.uk/courses/PR00876/1/PhD-Cell-and-Molecular-Biology,Cell And Molecular Biology,PhD
+https://www.essex.ac.uk/courses/UG00039/2/BSc-Biomedical-Science,Biomedical Science,BSc
+https://www.essex.ac.uk/courses/PR00904/1/PhD-Environmental-Biology,Environmental Biology,PhD
+https://www.essex.ac.uk/courses/UG00039/3/BSc-Biomedical-Science,Biomedical Science,BSc
+https://www.essex.ac.uk/courses/UG00263/1/BSc-Marine-Biology,Marine Biology,BSc
+https://www.essex.ac.uk/courses/PR00942/1/PhD-Mathematical-Biology,Mathematical Biology,PhD
+https://www.essex.ac.uk/courses/UG00263/2/BSc-Marine-Biology,Marine Biology,BSc
+https://www.essex.ac.uk/courses/UG01128/1/BSc-Biotechnology,Biotechnology,BSc
+https://www.essex.ac.uk/courses/UG00039/4/Integrated-Master-in-Science-Biomedical-Science,Master In Science Biomedical Science,Integrated
+https://www.essex.ac.uk/courses/PR00873/2/MPhil-Bio-Statistics,Bio Statistics,MPhil
+https://www.essex.ac.uk/courses/UG01419/1/Integrated-Master-in-Science-Tropical-Marine-Biology,Master In Science Tropical Marine Biology,Integrated
+https://www.essex.ac.uk/courses/UG01340/1/BSc-Human-Biology,Human Biology,BSc
+https://www.essex.ac.uk/courses/UG01498/1/BSc-Global-Sustainability,Global Sustainability,BSc
+https://www.essex.ac.uk/courses/UG00038/1/BSc-Biological-Sciences,Biological Sciences,BSc
+https://www.essex.ac.uk/courses/UG01570/1/BSc-Microbiology,Microbiology,BSc
+https://www.essex.ac.uk/courses/PG00837/1/MSc-Tropical-Marine-Biology,Tropical Marine Biology,MSc
+https://www.essex.ac.uk/courses/PG01365/1/MSc-Health-Genomics,Health Genomics,MSc
+https://www.essex.ac.uk/courses/PG01511/1/MSc-Marine-Science-and-Sustainable-Development,Marine Science And Sustainable Development,MSc
+https://www.essex.ac.uk/courses/PR01068/1/PhD-Plant-Biology,Plant Biology,PhD
+https://www.essex.ac.uk/courses/UG00178/1/BSc-Genetics,Genetics,BSc
+https://www.essex.ac.uk/courses/UG00038/2/BSc-Biological-Sciences,Biological Sciences,BSc
+https://www.essex.ac.uk/courses/PR00873/3/MSc-by-Dissertation-Bio-Statistics,By Dissertation Bio Statistics,MSc
+https://www.essex.ac.uk/courses/PR00870/3/MSc-by-Dissertation-Biological-Sciences,By Dissertation Biological Sciences,MSc
+https://www.essex.ac.uk/courses/PR00946/3/MSc-by-Dissertation-Microbiology,By Dissertation Microbiology,MSc
+https://www.essex.ac.uk/courses/PR00876/3/MSc-by-Dissertation-Cell-and-Molecular-Biology,By Dissertation Cell And Molecular Biology,MSc
+https://www.essex.ac.uk/courses/UG01377/1/BA-Global-Studies-with-Business-Management,Global Studies With Business Management,BA
+https://www.essex.ac.uk/courses/UG00047/1/BA-Business-Management-with-a-Modern-Language,Business Management With A Modern Language,BA
+https://www.essex.ac.uk/courses/PR00939/1/PhD-Management,Management,PhD
+https://www.essex.ac.uk/courses/PG00472/4/Master-of-Business-Administration-The-Essex-MBA,Of Business Administration The Essex Mba,Master
+https://www.essex.ac.uk/courses/UG01393/1/BSc-International-Business-and-Finance,International Business And Finance,BSc
+https://www.essex.ac.uk/courses/PG00670/3/MSc-Management,Management,MSc
+https://www.essex.ac.uk/courses/UG00216/1/BSc-International-Business-and-Entrepreneurship,International Business And Entrepreneurship,BSc
+https://www.essex.ac.uk/courses/PR00940/6/PhD-Management-Studies,Management Studies,PhD
+https://www.essex.ac.uk/courses/UG00046/1/BA-Business-Management-and-Modern-Languages,Business Management And Modern Languages,BA
+https://www.essex.ac.uk/courses/PG00670/6/MSc-Management,Management,MSc
+https://www.essex.ac.uk/courses/PG01367/1/MSc-Organisational-Change-Management,Organisational Change Management,MSc
+https://www.essex.ac.uk/courses/PR00903/1/PhD-Entrepreneurship,Entrepreneurship,PhD
+https://www.essex.ac.uk/courses/UG00256/1/BSc-Marketing-Management,Marketing Management,BSc
+https://www.essex.ac.uk/courses/PG01564/1/MSc-Leadership-in-Health-and-Care,Leadership In Health And Care,MSc
+https://www.essex.ac.uk/courses/UG01063/1/LLB-Law-with-Business,Law With Business,LLB
+https://www.essex.ac.uk/courses/UG00043/1/BBA-Business-Administration,Business Administration,BBA
+https://www.essex.ac.uk/courses/PG00472/2/Master-of-Business-Administration-The-Essex-MBA,Of Business Administration The Essex Mba,Master
+https://www.essex.ac.uk/courses/PR00875/1/PhD-Business-Administration,Business Administration,PhD
+https://www.essex.ac.uk/courses/PG00472/1/Master-of-Business-Administration-The-Essex-MBA,Of Business Administration The Essex Mba,Master
+https://www.essex.ac.uk/courses/PG00671/1/MA-Management-and-Organisational-Dynamics,Management And Organisational Dynamics,MA
+https://www.essex.ac.uk/courses/PG01101/2/Master-of-Business-Management-MBM,Of Business Management Mbm,Master
+https://www.essex.ac.uk/courses/UG01297/1/BA-Business-Economics,Business Economics,BA
+https://www.essex.ac.uk/courses/PG01023/1/MSc-Business-Analytics,Business Analytics,MSc
+https://www.essex.ac.uk/courses/PG00631/1/MSc-International-Business-and-Entrepreneurship,International Business And Entrepreneurship,MSc
+https://www.essex.ac.uk/courses/PG00581/1/MSc-Finance-and-Management,Finance And Management,MSc
+https://www.essex.ac.uk/courses/PR00940/2/PhD-Management-Studies,Management Studies,PhD
+https://www.essex.ac.uk/courses/PG00595/1/MSc-Global-Project-Management,Global Project Management,MSc
+https://www.essex.ac.uk/courses/PR00939/2/PhD-Management,Management,PhD
+https://www.essex.ac.uk/courses/UG01545/1/BSc-Business-and-Human-Resource-Management,Business And Human Resource Management,BSc
+https://www.essex.ac.uk/courses/PR00939/5/PhD-Management,Management,PhD
+https://www.essex.ac.uk/courses/PG00558/1/MSc-Entrepreneurship-and-Innovation,Entrepreneurship And Innovation,MSc
+https://www.essex.ac.uk/courses/UG00045/2/BSc-Business-Management,Business Management,BSc
+https://www.essex.ac.uk/courses/UG00256/2/BSc-Marketing-Management,Marketing Management,BSc
+https://www.essex.ac.uk/courses/PR01372/1/PhD-Human-Resource-Management-and-Organisation-Studies,Human Resource Management And Organisation Studies,PhD
+https://www.essex.ac.uk/courses/PR00980/1/Professional-Doctorate-Social-Services-Management,Doctorate Social Services Management,Professional
+https://www.essex.ac.uk/courses/UG01504/1/BSc-Business-Administration-and-Supply-Chain-Management,Business Administration And Supply Chain Management,BSc
+https://www.essex.ac.uk/courses/PR00919/1/Professional-Doctorate-Health-Service-Management,Doctorate Health Service Management,Professional
+https://www.essex.ac.uk/courses/PG00671/2/Postgraduate-Diploma-Management-and-Organisational-Dynamics,Diploma Management And Organisational Dynamics,Postgraduate
+https://www.essex.ac.uk/courses/PR00903/2/PhD-Entrepreneurship,Entrepreneurship,PhD
+https://www.essex.ac.uk/courses/PG01036/1/MSc-Human-Resource-Management,Human Resource Management,MSc
+https://www.essex.ac.uk/courses/PG00670/2/MSc-Management,Management,MSc
+https://www.essex.ac.uk/courses/UG00045/1/BSc-Business-Management,Business Management,BSc
+https://www.essex.ac.uk/courses/UG01601/1/BSc-Business-and-Analytics,Business And Analytics,BSc
+https://www.essex.ac.uk/courses/UG01376/1/BA-Philosophy-with-Business-Management,Philosophy With Business Management,BA
+https://www.essex.ac.uk/courses/PG00670/1/MSc-Management,Management,MSc
+https://www.essex.ac.uk/courses/PR01043/1/PhD-Business-Analytics,Business Analytics,PhD
+https://www.essex.ac.uk/courses/PG00430/1/MRes-Management-Research,Management Research,MRes
+https://www.essex.ac.uk/courses/PG00472/5/Master-of-Business-Administration-The-Essex-MBA,Of Business Administration The Essex Mba,Master
+https://www.essex.ac.uk/courses/UG01392/1/Integrated-Master-in-Management-Marketing-Management,Master In Management Marketing Management,Integrated
+https://www.essex.ac.uk/courses/PG01102/1/MSc-International-Logistics-and-Supply-Chain-Management,International Logistics And Supply Chain Management,MSc
+https://www.essex.ac.uk/courses/PG01655/1/MSc-Policing-and-Data-Analytics,Policing And Data Analytics,MSc
+https://www.essex.ac.uk/courses/PR00875/2/PhD-Business-Administration,Business Administration,PhD
+https://www.essex.ac.uk/courses/PG01654/1/MA-Policing,Policing,MA
+https://www.essex.ac.uk/courses/PG01407/1/MA-Childhood-Studies,Childhood Studies,MA
+https://www.essex.ac.uk/courses/UG01121/2/BA-Childhood-Studies,Childhood Studies,BA
+https://www.essex.ac.uk/courses/UG01121/1/BA-Childhood-Studies,Childhood Studies,BA
+https://www.essex.ac.uk/courses/PR01388/1/PhD-Childhood-Studies,Childhood Studies,PhD
+https://www.essex.ac.uk/courses/PG00605/1/MSc-Artificial-Intelligence-in-Finance,Artificial Intelligence In Finance,MSc
+https://www.essex.ac.uk/courses/PG00496/1/MSc-Computational-Finance,Computational Finance,MSc
+https://www.essex.ac.uk/courses/PR00884/3/MSc-by-Dissertation-Computational-Finance,By Dissertation Computational Finance,MSc
+https://www.essex.ac.uk/courses/PR00884/1/PhD-Computational-Finance,Computational Finance,PhD
+https://www.essex.ac.uk/courses/PG01382/1/MSc-Financial-Technology-Computer-Science,Financial Technology Computer Science,MSc
+https://www.essex.ac.uk/courses/PR00884/2/MPhil-Computational-Finance,Computational Finance,MPhil
+https://www.essex.ac.uk/courses/PR00888/3/MSc-by-Dissertation-Computing-and-Electronic-Systems,By Dissertation Computing And Electronic Systems,MSc
+https://www.essex.ac.uk/courses/PG00627/1/MSc-Intelligent-Systems-and-Robotics,Intelligent Systems And Robotics,MSc
+https://www.essex.ac.uk/courses/PR00887/1/PhD-Computer-Science,Computer Science,PhD
+https://www.essex.ac.uk/courses/UG00282/1/BSc-Mathematics-with-Computing,Mathematics With Computing,BSc
+https://www.essex.ac.uk/courses/PG00500/1/MSc-Computer-Engineering,Computer Engineering,MSc
+https://www.essex.ac.uk/courses/UG00066/1/BSc-Computer-Games,Computer Games,BSc
+https://www.essex.ac.uk/courses/PG01033/1/MSc-Computer-Games,Computer Games,MSc
+https://www.essex.ac.uk/courses/UG01061/1/BEng-Robotic-Engineering,Robotic Engineering,BEng
+https://www.essex.ac.uk/courses/PR00888/1/PhD-Computing-and-Electronic-Systems,Computing And Electronic Systems,PhD
+https://www.essex.ac.uk/courses/PR00887/5/PhD-Computer-Science,Computer Science,PhD
+https://www.essex.ac.uk/courses/UG01385/3/BSc-Computational-Linguistics,Computational Linguistics,BSc
+https://www.essex.ac.uk/courses/PG00435/1/MSc-Advanced-Computer-Science,Advanced Computer Science,MSc
+https://www.essex.ac.uk/courses/UG00069/1/BSc-Computer-Science,Computer Science,BSc
+https://www.essex.ac.uk/courses/PG01630/1/MSc-Cyber-Security,Cyber Security,MSc
+https://www.essex.ac.uk/courses/PR01632/1/PhD-Artificial-Intelligence,Artificial Intelligence,PhD
+https://www.essex.ac.uk/courses/UG00069/2/BSc-Computer-Science,Computer Science,BSc
+https://www.essex.ac.uk/courses/UG01422/1/Integrated-Master-in-Science-Mathematics-and-Data-Science,Master In Science Mathematics And Data Science,Integrated
+https://www.essex.ac.uk/courses/PG01381/1/MSc-Financial-Technology-Economics,Financial Technology Economics,MSc
+https://www.essex.ac.uk/courses/PG00457/1/MSc-Artificial-Intelligence,Artificial Intelligence,MSc
+https://www.essex.ac.uk/courses/PR00888/2/MPhil-Computing-and-Electronic-Systems,Computing And Electronic Systems,MPhil
+https://www.essex.ac.uk/courses/PR00887/3/MSc-by-Dissertation-Computer-Science,By Dissertation Computer Science,MSc
+https://www.essex.ac.uk/courses/PG01399/1/MSc-Applications-of-Artificial-Intelligence,Applications Of Artificial Intelligence,MSc
+https://www.essex.ac.uk/courses/UG00080/1/BEng-Computers-with-Electronics,Computers With Electronics,BEng
+https://www.essex.ac.uk/courses/UG01265/1/BSc-Economics-with-Data-Science,Economics With Data Science,BSc
+https://www.essex.ac.uk/courses/PR00887/2/MPhil-Computer-Science,Computer Science,MPhil
+https://www.essex.ac.uk/courses/UG01034/1/BSc-Data-Science-and-Analytics,Data Science And Analytics,BSc
+https://www.essex.ac.uk/courses/UG00066/2/BSc-Computer-Games,Computer Games,BSc
+https://www.essex.ac.uk/courses/PG00502/1/MSc-Computer-Networks-and-Security,Computer Networks And Security,MSc
+https://www.essex.ac.uk/courses/UG00076/1/BEng-Computer-Systems-Engineering,Computer Systems Engineering,BEng
+https://www.essex.ac.uk/courses/PG01380/1/MSc-Financial-Technology-Finance,Financial Technology Finance,MSc
+https://www.essex.ac.uk/courses/PR00887/4/PhD-Computer-Science,Computer Science,PhD
+https://www.essex.ac.uk/courses/PG01314/1/MSc-Social-Data-Science,Social Data Science,MSc
+https://www.essex.ac.uk/courses/UG01336/1/BSc-Sociology-with-Data-Science,Sociology With Data Science,BSc
+https://www.essex.ac.uk/courses/PR01632/2/MSc-by-Dissertation-Artificial-Intelligence,By Dissertation Artificial Intelligence,MSc
+https://www.essex.ac.uk/courses/UG01499/1/BSc-Artificial-Intelligence,Artificial Intelligence,BSc
+https://www.essex.ac.uk/courses/PR00891/2/MPhil-Creative-Writing,Creative Writing,MPhil
+https://www.essex.ac.uk/courses/PR01000/1/PhD-Theatre-Studies-Playwriting,Theatre Studies Playwriting,PhD
+https://www.essex.ac.uk/courses/PG00845/1/MA-Wild-Writing-Literature-Landscape-and-the-Environment,Wild Writing Literature Landscape And The Environment,MA
+https://www.essex.ac.uk/courses/PG01373/1/MA-Literature-and-Creative-Writing,Literature And Creative Writing,MA
+https://www.essex.ac.uk/courses/PG01301/1/MA-Theatre-Practice,Theatre Practice,MA
+https://www.essex.ac.uk/courses/UG00088/1/BA-Creative-Writing,Creative Writing,BA
+https://www.essex.ac.uk/courses/UG01055/3/Integrated-Master-in-Literature-Literature-and-Creative-Writing,Master In Literature Literature And Creative Writing,Integrated
+https://www.essex.ac.uk/courses/UG01055/1/BA-Literature-and-Creative-Writing,Literature And Creative Writing,BA
+https://www.essex.ac.uk/courses/PR00891/1/PhD-Creative-Writing,Creative Writing,PhD
+https://www.essex.ac.uk/courses/PR00891/4/MA-by-Dissertation-Creative-Writing,By Dissertation Creative Writing,MA
+https://www.essex.ac.uk/courses/UG00162/1/BA-Film-and-Creative-Writing,Film And Creative Writing,BA
+https://www.essex.ac.uk/courses/PG00519/1/MA-Creative-Writing,Creative Writing,MA
+https://www.essex.ac.uk/courses/PG00722/1/MA-Scriptwriting-Theatre-and-Digital-Media,Scriptwriting Theatre And Digital Media,MA
+https://www.essex.ac.uk/courses/PR01000/2/MPhil-Theatre-Studies-Playwriting,Theatre Studies Playwriting,MPhil
+https://www.essex.ac.uk/courses/UG01501/1/BA-Drama-and-Creative-Writing,Drama And Creative Writing,BA
+https://www.essex.ac.uk/courses/UG00379/1/BA-Sociology-and-Criminology,Sociology And Criminology,BA
+https://www.essex.ac.uk/courses/PG00702/2/MA-Organised-Crime-Terrorism-and-Security,Organised Crime Terrorism And Security,MA
+https://www.essex.ac.uk/courses/PG01378/1/MA-Sociology-and-Criminology,Sociology And Criminology,MA
+https://www.essex.ac.uk/courses/UG00190/2/BA-History-and-Criminology,History And Criminology,BA
+https://www.essex.ac.uk/courses/UG01291/1/BA-Criminology-with-Criminal-Law,Criminology With Criminal Law,BA
+https://www.essex.ac.uk/courses/UG00089/2/BA-Criminology,Criminology,BA
+https://www.essex.ac.uk/courses/PR00892/3/PhD-Criminology,Criminology,PhD
+https://www.essex.ac.uk/courses/PG00702/1/MSc-Organised-Crime-Terrorism-and-Security,Organised Crime Terrorism And Security,MSc
+https://www.essex.ac.uk/courses/UG01290/1/BA-Criminology-with-Counselling-Skills,Criminology With Counselling Skills,BA
+https://www.essex.ac.uk/courses/UG00092/1/BA-Criminology-with-Social-Psychology,Criminology With Social Psychology,BA
+https://www.essex.ac.uk/courses/UG00089/1/BA-Criminology,Criminology,BA
+https://www.essex.ac.uk/courses/PR00892/2/MPhil-Criminology,Criminology,MPhil
+https://www.essex.ac.uk/courses/PR00892/4/PhD-Criminology,Criminology,PhD
+https://www.essex.ac.uk/courses/UG00190/1/BA-History-and-Criminology,History And Criminology,BA
+https://www.essex.ac.uk/courses/UG01089/1/BA-Journalism-and-Criminology,Journalism And Criminology,BA
+https://www.essex.ac.uk/courses/PG00521/1/MA-Criminology,Criminology,MA
+https://www.essex.ac.uk/courses/PR00892/1/PhD-Criminology,Criminology,PhD
+https://www.essex.ac.uk/courses/PG00808/1/MSc-Optimisation-and-Data-Analytics,Optimisation And Data Analytics,MSc
+https://www.essex.ac.uk/courses/PG01404/1/MSc-Data-Science-and-its-Applications,Data Science And Its Applications,MSc
+https://www.essex.ac.uk/courses/PR00992/1/PhD-Statistics,Statistics,PhD
+https://www.essex.ac.uk/courses/PG01389/1/MSc-Applied-Data-Science,Applied Data Science,MSc
+https://www.essex.ac.uk/courses/PG00742/2/MSc-Data-Science,Data Science,MSc
+https://www.essex.ac.uk/courses/PR01343/1/PhD-Data-Science,Data Science,PhD
+https://www.essex.ac.uk/courses/PR01343/4/PhD-Data-Science,Data Science,PhD
+https://www.essex.ac.uk/courses/PG00808/2/Postgraduate-Diploma-Optimisation-and-Data-Analytics,Diploma Optimisation And Data Analytics,Postgraduate
+https://www.essex.ac.uk/courses/PG01022/1/MSc-Statistics,Statistics,MSc
+https://www.essex.ac.uk/courses/PG00742/1/MSc-Data-Science,Data Science,MSc
+https://www.essex.ac.uk/courses/PR00992/4/PhD-Statistics,Statistics,PhD
+https://www.essex.ac.uk/courses/UG00278/1/BSc-Statistics,Statistics,BSc
+https://www.essex.ac.uk/courses/PR00992/3/MSc-by-Dissertation-Statistics,By Dissertation Statistics,MSc
+https://www.essex.ac.uk/courses/PR01343/5/PhD-Data-Science,Data Science,PhD
+https://www.essex.ac.uk/courses/PR01343/2/MPhil-Data-Science,Data Science,MPhil
+https://www.essex.ac.uk/courses/PR00992/2/MPhil-Statistics,Statistics,MPhil
+https://www.essex.ac.uk/courses/UG00097/1/BA-Drama,Drama,BA
+https://www.essex.ac.uk/courses/UG01371/1/BA-Film-and-Drama,Film And Drama,BA
+https://www.essex.ac.uk/courses/UG01445/2/BA-History-and-Drama,History And Drama,BA
+https://www.essex.ac.uk/courses/PR00999/1/PhD-Theatre-Studies,Theatre Studies,PhD
+https://www.essex.ac.uk/courses/UG01445/1/BA-History-and-Drama,History And Drama,BA
+https://www.essex.ac.uk/courses/UG00098/1/BA-Drama-and-Literature,Drama And Literature,BA
+https://www.essex.ac.uk/courses/PR00898/1/PhD-Economics-ISER,Economics Iser,PhD
+https://www.essex.ac.uk/courses/PR00897/1/PhD-Economics,Economics,PhD
+https://www.essex.ac.uk/courses/PR00898/2/MPhil-Economics-ISER,Economics Iser,MPhil
+https://www.essex.ac.uk/courses/PR00897/4/PhD-Economics,Economics,PhD
+https://www.essex.ac.uk/courses/PR00897/5/PhD-Economics,Economics,PhD
+https://www.essex.ac.uk/courses/PR00865/2/MPhil-Applied-Social-and-Economic-Research,Applied Social And Economic Research,MPhil
+https://www.essex.ac.uk/courses/PR00865/1/PhD-Applied-Social-and-Economic-Research,Applied Social And Economic Research,PhD
+https://www.essex.ac.uk/courses/PG00546/1/MSc-Electronic-Engineering,Electronic Engineering,MSc
+https://www.essex.ac.uk/courses/UG00409/1/BEng-Communications-Engineering,Communications Engineering,BEng
+https://www.essex.ac.uk/courses/UG00117/1/BEng-Electronic-Engineering,Electronic Engineering,BEng
+https://www.essex.ac.uk/courses/UG01361/1/BEng-Neural-Engineering-with-Psychology,Neural Engineering With Psychology,BEng
+https://www.essex.ac.uk/courses/UG00117/3/BEng-Electronic-Engineering,Electronic Engineering,BEng
+https://www.essex.ac.uk/courses/PG00819/1/MSc-5G-and-Emerging-Communication-Systems,5G And Emerging Communication Systems,MSc
+https://www.essex.ac.uk/courses/UG01326/1/BEng-Mechatronic-Systems,Mechatronic Systems,BEng
+https://www.essex.ac.uk/courses/PR00900/2/MPhil-Electronic-Systems-Engineering,Electronic Systems Engineering,MPhil
+https://www.essex.ac.uk/courses/PR01405/4/Engineering,,Engineering
+https://www.essex.ac.uk/courses/PR00900/1/PhD-Electronic-Systems-Engineering,Electronic Systems Engineering,PhD
+https://www.essex.ac.uk/courses/PR00900/3/MSc-by-Dissertation-Electronic-Systems-Engineering,By Dissertation Electronic Systems Engineering,MSc
+https://www.essex.ac.uk/courses/PR00900/5/PhD-Electronic-Systems-Engineering,Electronic Systems Engineering,PhD
+https://www.essex.ac.uk/courses/PG00555/1/MA-English-Language-and-Linguistics,English Language And Linguistics,MA
+https://www.essex.ac.uk/courses/UG00132/1/BA-English-Language-and-Literature,English Language And Literature,BA
+https://www.essex.ac.uk/courses/UG00129/1/BA-Teaching-English-as-a-Foreign-Language-TEFL,Teaching English As A Foreign Language Tefl,BA
+https://www.essex.ac.uk/courses/UG00295/2/BA-Modern-Languages-and-English-Language,Modern Languages And English Language,BA
+https://www.essex.ac.uk/courses/UG00131/2/BA-English-Language-and-Linguistics,English Language And Linguistics,BA
+https://www.essex.ac.uk/courses/UG00131/1/BA-English-Language-and-Linguistics,English Language And Linguistics,BA
+https://www.essex.ac.uk/courses/PR00902/5/PhD-English-Language-Teaching,English Language Teaching,PhD
+https://www.essex.ac.uk/courses/UG00247/1/Integrated-Master-in-Literature-Literature,Master In Literature Literature,Integrated
+https://www.essex.ac.uk/courses/PG00815/1/MA-Teaching-English-to-Speakers-of-Other-Languages-TESOL,Teaching English To Speakers Of Other Languages Tesol,MA
+https://www.essex.ac.uk/courses/UG00295/1/BA-Modern-Languages-and-English-Language,Modern Languages And English Language,BA
+https://www.essex.ac.uk/courses/PR00902/3/PhD-English-Language-Teaching,English Language Teaching,PhD
+https://www.essex.ac.uk/courses/UG00297/2/BA-Modern-Languages-and-Teaching-English-as-a-Foreign-Language,Modern Languages And Teaching English As A Foreign Language,BA
+https://www.essex.ac.uk/courses/PR00902/1/PhD-English-Language-Teaching,English Language Teaching,PhD
+https://www.essex.ac.uk/courses/UG00297/1/BA-Modern-Languages-and-Teaching-English-as-a-Foreign-Language,Modern Languages And Teaching English As A Foreign Language,BA
+https://www.essex.ac.uk/courses/PG00639/1/MSc-International-Marketing-and-Business-Intelligence,International Marketing And Business Intelligence,MSc
+https://www.essex.ac.uk/courses/PG01406/2/MSc-Environmental-Futures-with-Climate-Change,Environmental Futures With Climate Change,MSc
+https://www.essex.ac.uk/courses/PG01542/1/LLM-Law-Environment-and-Sustainability,Law Environment And Sustainability,LLM
+https://www.essex.ac.uk/courses/PR00904/3/MSc-by-Dissertation-Environmental-Biology,By Dissertation Environmental Biology,MSc
+https://www.essex.ac.uk/courses/PG01345/1/MA-Environment-Society-and-Culture,Environment Society And Culture,MA
+https://www.essex.ac.uk/courses/PG01406/1/MA-Environmental-Futures-with-Climate-Change,Environmental Futures With Climate Change,MA
+https://www.essex.ac.uk/courses/UG01510/1/BA-Global-Studies-with-Sustainability,Global Studies With Sustainability,BA
+https://www.essex.ac.uk/courses/UG00157/2/BA-European-Studies-with-Italian,European Studies With Italian,BA
+https://www.essex.ac.uk/courses/UG00152/1/BA-European-Studies-and-Modern-Languages,European Studies And Modern Languages,BA
+https://www.essex.ac.uk/courses/UG00152/2/BA-European-Studies-and-Modern-Languages,European Studies And Modern Languages,BA
+https://www.essex.ac.uk/courses/UG00155/1/BA-European-Studies-with-German,European Studies With German,BA
+https://www.essex.ac.uk/courses/UG00151/1/BA-European-Studies,European Studies,BA
+https://www.essex.ac.uk/courses/UG00151/2/BA-European-Studies,European Studies,BA
+https://www.essex.ac.uk/courses/UG00155/2/BA-European-Studies-with-German,European Studies With German,BA
+https://www.essex.ac.uk/courses/UG00154/2/BA-European-Studies-with-French,European Studies With French,BA
+https://www.essex.ac.uk/courses/UG00154/1/BA-European-Studies-with-French,European Studies With French,BA
+https://www.essex.ac.uk/courses/UG00157/1/BA-European-Studies-with-Italian,European Studies With Italian,BA
+https://www.essex.ac.uk/courses/UG01328/2/BA-Events-Management,Events Management,BA
+https://www.essex.ac.uk/courses/ug01113/2/ba-events-management-with-hospitality,Events Management With Hospitality,ba
+https://www.essex.ac.uk/courses/UG01328/1/FdA-Events-Management,Events Management,FdA
+https://www.essex.ac.uk/courses/PG01115/1/MSc-International-Hospitality-Management,International Hospitality Management,MSc
+https://www.essex.ac.uk/courses/PG01647/2/International-Tourism-Management,Tourism Management,International
+https://www.essex.ac.uk/courses/UG01327/1/FdA-Hospitality-Management,Hospitality Management,FdA
+https://www.essex.ac.uk/courses/PG01645/1/MSc-International-Events-Management,International Events Management,MSc
+https://www.essex.ac.uk/courses/UG01585/2/BA-International-Tourism-Management,International Tourism Management,BA
+https://www.essex.ac.uk/courses/PR01648/1/PhD-Tourism-Hospitality-and-Events,Tourism Hospitality And Events,PhD
+https://www.essex.ac.uk/courses/PG01115/2/MSc-International-Hospitality-Management,International Hospitality Management,MSc
+https://www.essex.ac.uk/courses/UG01585/1/FdA-International-Tourism-Management,International Tourism Management,FdA
+https://www.essex.ac.uk/courses/PG01647/1/MSc-International-Tourism-Management,International Tourism Management,MSc
+https://www.essex.ac.uk/courses/UG01327/2/BA-Hospitality-Management,Hospitality Management,BA
+https://www.essex.ac.uk/courses/ug00206/2/ba-hotel-management,Hotel Management,ba
+https://www.essex.ac.uk/courses/UG00203/1/BA-History-with-Film-Studies,History With Film Studies,BA
+https://www.essex.ac.uk/courses/PR00911/1/PhD-Film-Studies,Film Studies,PhD
+https://www.essex.ac.uk/courses/UG00164/1/BA-Film-Studies,Film Studies,BA
+https://www.essex.ac.uk/courses/PG00576/1/MA-Film-and-Literature,Film And Literature,MA
+https://www.essex.ac.uk/courses/PR00911/5/PhD-Film-Studies,Film Studies,PhD
+https://www.essex.ac.uk/courses/PG00577/1/MA-Film-Studies,Film Studies,MA
+https://www.essex.ac.uk/courses/PR00912/1/PhD-Film-Studies-Creative-Practice,Film Studies Creative Practice,PhD
+https://www.essex.ac.uk/courses/UG00166/1/BA-Film-Studies-and-Literature,Film Studies And Literature,BA
+https://www.essex.ac.uk/courses/PR00911/2/MPhil-Film-Studies,Film Studies,MPhil
+https://www.essex.ac.uk/courses/PR00911/4/MA-by-Dissertation-Film-Studies,By Dissertation Film Studies,MA
+https://www.essex.ac.uk/courses/PR00912/2/MPhil-Film-Studies-Creative-Practice,Film Studies Creative Practice,MPhil
+https://www.essex.ac.uk/courses/UG01502/1/BA-Film-and-Journalism,Film And Journalism,BA
+https://www.essex.ac.uk/courses/PG01596/1/MA-Documentary-Film,Documentary Film,MA
+https://www.essex.ac.uk/courses/UG00164/2/BA-Film-Studies,Film Studies,BA
+https://www.essex.ac.uk/courses/PR00913/1/PhD-Finance,Finance,PhD
+https://www.essex.ac.uk/courses/PR00913/2/PhD-Finance,Finance,PhD
+https://www.essex.ac.uk/courses/UG00030/1/BSc-Banking-and-Finance,Banking And Finance,BSc
+https://www.essex.ac.uk/courses/PG00588/1/MSc-Financial-Engineering-and-Risk-Management,Financial Engineering And Risk Management,MSc
+https://www.essex.ac.uk/courses/PG00580/1/MSc-Investment-and-Wealth-Management,Investment And Wealth Management,MSc
+https://www.essex.ac.uk/courses/PG01014/1/MSc-Financial-Data-Analytics,Financial Data Analytics,MSc
+https://www.essex.ac.uk/courses/UG01275/1/BSc-Finance-and-Management,Finance And Management,BSc
+https://www.essex.ac.uk/courses/PG00579/2/MRes-Finance,Finance,MRes
+https://www.essex.ac.uk/courses/PG00461/1/MSc-Corporate-and-Investment-Banking,Corporate And Investment Banking,MSc
+https://www.essex.ac.uk/courses/PG00579/1/MSc-Finance,Finance,MSc
+https://www.essex.ac.uk/courses/UG00167/1/BSc-Finance,Finance,BSc
+https://www.essex.ac.uk/courses/UG01432/1/BA-Global-Studies-and-Latin-American-Studies,Global Studies And Latin American Studies,BA
+https://www.essex.ac.uk/courses/UG01349/1/BA-Global-Studies-with-Human-Rights,Global Studies With Human Rights,BA
+https://www.essex.ac.uk/courses/UG01430/1/BA-Global-Studies-with-Latin-American-Studies,Global Studies With Latin American Studies,BA
+https://www.essex.ac.uk/courses/UG01369/1/BA-Social-Change,Social Change,BA
+https://www.essex.ac.uk/courses/UG01341/1/BA-Global-Studies-with-Politics,Global Studies With Politics,BA
+https://www.essex.ac.uk/courses/UG01054/1/BA-Global-Studies,Global Studies,BA
+https://www.essex.ac.uk/courses/UG01144/1/BA-Global-Studies-and-Modern-Languages,Global Studies And Modern Languages,BA
+https://www.essex.ac.uk/courses/PG00754/1/Postgraduate-Certificate-Psychological-Wellbeing-Practice,Certificate Psychological Wellbeing Practice,Postgraduate
+https://www.essex.ac.uk/courses/PG01084/2/Postgraduate-Diploma-Musculoskeletal-Ultrasound-Imaging,Diploma Musculoskeletal Ultrasound Imaging,Postgraduate
+https://www.essex.ac.uk/courses/PR00952/1/Professional-Doctorate-Nursing,Doctorate Nursing,Professional
+https://www.essex.ac.uk/courses/UG00375/1/BA-Social-Work,Social Work,BA
+https://www.essex.ac.uk/courses/UG00316/1/BSc-Nursing-Mental-Health,Nursing Mental Health,BSc
+https://www.essex.ac.uk/courses/UG00316/2/BSc-Nursing-Mental-Health,Nursing Mental Health,BSc
+https://www.essex.ac.uk/courses/PG00602/1/MSc-Advanced-Clinical-Practice,Advanced Clinical Practice,MSc
+https://www.essex.ac.uk/courses/PR00915/1/PhD-Health-and-Organisational-Research,Health And Organisational Research,PhD
+https://www.essex.ac.uk/courses/PG01447/1/MSc-Global-Public-Health,Global Public Health,MSc
+https://www.essex.ac.uk/courses/PG01030/1/Periodontology,,Periodontology
+https://www.essex.ac.uk/courses/PG01084/1/Postgraduate-Certificate-Musculoskeletal-Ultrasound-Imaging,Certificate Musculoskeletal Ultrasound Imaging,Postgraduate
+https://www.essex.ac.uk/courses/PR00974/1/Professional-Doctorate-Public-Health-Health-Visiting,Doctorate Public Health Health Visiting,Professional
+https://www.essex.ac.uk/courses/PG01008/1/MSc-Medical-and-Clinical-Education,Medical And Clinical Education,MSc
+https://www.essex.ac.uk/courses/PG01084/3/MSc-Musculoskeletal-Ultrasound-Imaging,Musculoskeletal Ultrasound Imaging,MSc
+https://www.essex.ac.uk/courses/PG01565/2/Postgraduate-Certificate-Specialist-Adult-Mental-Health-Mental-Health-and-Wellbeing-Practitioner,Certificate Specialist Adult Mental Health Mental Health And Wellbeing Practitioner,Postgraduate
+https://www.essex.ac.uk/courses/PR00973/2/MPhil-Public-Health,Public Health,MPhil
+https://www.essex.ac.uk/courses/PR00979/2/MPhil-Social-Policy,Social Policy,MPhil
+https://www.essex.ac.uk/courses/PR00920/1/PhD-Health-Studies,Health Studies,PhD
+https://www.essex.ac.uk/courses/PG00803/1/MSc-Speech-and-Language-Therapy-Pre-Registration,Speech And Language Therapy Pre Registration,MSc
+https://www.essex.ac.uk/courses/PR00973/3/MSc-by-Dissertation-Public-Health,By Dissertation Public Health,MSc
+https://www.essex.ac.uk/courses/PR00917/1/Professional-Doctorate-Health-Care-Education,Doctorate Health Care Education,Professional
+https://www.essex.ac.uk/courses/PG01450/1/Postgraduate-Certificate-First-Contact-Musculoskeletal-Practice,Certificate First Contact Musculoskeletal Practice,Postgraduate
+https://www.essex.ac.uk/courses/PG01565/1/Graduate-Certificate-Specialist-Adult-Mental-Health-Mental-Health-and-Wellbeing-Practitioner,Certificate Specialist Adult Mental Health Mental Health And Wellbeing Practitioner,Graduate
+https://www.essex.ac.uk/courses/PG00720/1/MSc-Physiotherapy-Pre-Registration,Physiotherapy Pre Registration,MSc
+https://www.essex.ac.uk/courses/UG00320/1/FdSc-Oral-Health-Science,Oral Health Science,FdSc
+https://www.essex.ac.uk/courses/PR01310/1/PhD-Health-and-Exercise-Sciences,Health And Exercise Sciences,PhD
+https://www.essex.ac.uk/courses/PR00920/5/PhD-Health-Studies,Health Studies,PhD
+https://www.essex.ac.uk/courses/PG01031/1/Advanced-Periodontal-Practice,Periodontal Practice,Advanced
+https://www.essex.ac.uk/courses/PR00915/2/MPhil-Health-and-Organisational-Research,Health And Organisational Research,MPhil
+https://www.essex.ac.uk/courses/PR00973/1/PhD-Public-Health,Public Health,PhD
+https://www.essex.ac.uk/courses/PG01500/1/MSc-Musculoskeletal-Practice,Musculoskeletal Practice,MSc
+https://www.essex.ac.uk/courses/PR00880/1/Professional-Doctorate-Clinical-Psychology-D-Clin-Psych,Doctorate Clinical Psychology D Clin Psych,Professional
+https://www.essex.ac.uk/courses/UG01559/1/Certificate-of-HE-Health-and-Social-Care,Of He Health And Social Care,Certificate
+https://www.essex.ac.uk/courses/PG01008/2/Postgraduate-Diploma-Medical-and-Clinical-Education,Diploma Medical And Clinical Education,Postgraduate
+https://www.essex.ac.uk/courses/PR00979/3/MSc-by-Dissertation-Social-Policy,By Dissertation Social Policy,MSc
+https://www.essex.ac.uk/courses/UG00320/2/BSc-Oral-Health-Science,Oral Health Science,BSc
+https://www.essex.ac.uk/courses/PG00366/2/MRes-Health-and-Care-Research,Health And Care Research,MRes
+https://www.essex.ac.uk/courses/PR00987/1/PhD-Speech-and-Language-Therapy,Speech And Language Therapy,PhD
+https://www.essex.ac.uk/courses/UG00315/1/BSc-Nursing-Adult,Nursing Adult,BSc
+https://www.essex.ac.uk/courses/UG00339/2/BSc-Physiotherapy,Physiotherapy,BSc
+https://www.essex.ac.uk/courses/UG00315/2/BSc-Nursing-Adult,Nursing Adult,BSc
+https://www.essex.ac.uk/courses/PR01312/1/PhD-Health-and-Physical-Activity,Health And Physical Activity,PhD
+https://www.essex.ac.uk/courses/PG00754/2/Graduate-Certificate-Psychological-Wellbeing-Practice,Certificate Psychological Wellbeing Practice,Graduate
+https://www.essex.ac.uk/courses/PG01008/3/Postgraduate-Certificate-Medical-and-Clinical-Education,Certificate Medical And Clinical Education,Postgraduate
+https://www.essex.ac.uk/courses/UG01110/1/BSc-Speech-and-Language-Therapy,Speech And Language Therapy,BSc
+https://www.essex.ac.uk/courses/PR00953/5/PhD-Nursing-Studies,Nursing Studies,PhD
+https://www.essex.ac.uk/courses/PR00979/1/PhD-Social-Policy,Social Policy,PhD
+https://www.essex.ac.uk/courses/UG00292/1/BA-Modern-History-and-International-Relations,Modern History And International Relations,BA
+https://www.essex.ac.uk/courses/UG00325/1/BA-Philosophy-and-History,Philosophy And History,BA
+https://www.essex.ac.uk/courses/UG00189/4/Integrated-Master-in-History-History,Master In History History,Integrated
+https://www.essex.ac.uk/courses/PG00609/1/MA-History,History,MA
+https://www.essex.ac.uk/courses/PG00609/3/Postgraduate-Certificate-History,Certificate History,Postgraduate
+https://www.essex.ac.uk/courses/UG01442/1/BA-History-and-Heritage,History And Heritage,BA
+https://www.essex.ac.uk/courses/PR00922/4/MA-by-Dissertation-History,By Dissertation History,MA
+https://www.essex.ac.uk/courses/UG00189/1/BA-History,History,BA
+https://www.essex.ac.uk/courses/PG01443/1/MA-History-Power-and-Identity,History Power And Identity,MA
+https://www.essex.ac.uk/courses/UG00189/2/BA-History,History,BA
+https://www.essex.ac.uk/courses/PR00922/2/MPhil-History,History,MPhil
+https://www.essex.ac.uk/courses/UG00204/1/BA-History-with-Human-Rights,History With Human Rights,BA
+https://www.essex.ac.uk/courses/UG01444/1/BA-History-and-Law,History And Law,BA
+https://www.essex.ac.uk/courses/UG00293/1/BA-Modern-History-and-Politics,Modern History And Politics,BA
+https://www.essex.ac.uk/courses/UG00291/1/BA-Modern-History,Modern History,BA
+https://www.essex.ac.uk/courses/PG01339/1/MA-War-Culture-and-Society,War Culture And Society,MA
+https://www.essex.ac.uk/courses/UG00325/2/BA-Philosophy-and-History,Philosophy And History,BA
+https://www.essex.ac.uk/courses/UG00197/1/BA-History-and-Sociology,History And Sociology,BA
+https://www.essex.ac.uk/courses/PG00456/2/Graduate-Diploma-Art-History-and-Theory,Diploma Art History And Theory,Graduate
+https://www.essex.ac.uk/courses/UG00194/1/BA-History-and-Literature,History And Literature,BA
+https://www.essex.ac.uk/courses/PR00922/1/PhD-History,History,PhD
+https://www.essex.ac.uk/courses/PR01372/2/PhD-Human-Resource-Management-and-Organisation-Studies,Human Resource Management And Organisation Studies,PhD
+https://www.essex.ac.uk/courses/UG00332/1/BA-Philosophy-with-Human-Rights,Philosophy With Human Rights,BA
+https://www.essex.ac.uk/courses/PG00541/1/LLM-Economic-Social-and-Cultural-Rights,Economic Social And Cultural Rights,LLM
+https://www.essex.ac.uk/courses/PR00923/1/PhD-Human-Rights,Human Rights,PhD
+https://www.essex.ac.uk/courses/UG01049/1/LLB-Law-with-Human-Rights,Law With Human Rights,LLB
+https://www.essex.ac.uk/courses/PG00833/1/MA-Theory-and-Practice-of-Human-Rights,Theory And Practice Of Human Rights,MA
+https://www.essex.ac.uk/courses/PR00924/1/PhD-Human-Rights-and-Research-Methods,Human Rights And Research Methods,PhD
+https://www.essex.ac.uk/courses/PG00637/1/LLM-International-Human-Rights-Law,International Human Rights Law,LLM
+https://www.essex.ac.uk/courses/UG01099/1/BA-Journalism-with-Human-Rights,Journalism With Human Rights,BA
+https://www.essex.ac.uk/courses/UG01299/1/LLB-Law-with-Criminology,Law With Criminology,LLB
+https://www.essex.ac.uk/courses/PG01137/1/LLM-International-Humanitarian-Law,International Humanitarian Law,LLM
+https://www.essex.ac.uk/courses/UG00221/1/BA-International-Relations,International Relations,BA
+https://www.essex.ac.uk/courses/PG00641/1/MA-International-Relations,International Relations,MA
+https://www.essex.ac.uk/courses/PG00508/2/MSc-Conflict-Resolution,Conflict Resolution,MSc
+https://www.essex.ac.uk/courses/PG00641/2/MSc-International-Relations,International Relations,MSc
+https://www.essex.ac.uk/courses/PG00641/3/MRes-International-Relations,International Relations,MRes
+https://www.essex.ac.uk/courses/UG01657/1/BA-International-Affairs,International Affairs,BA
+https://www.essex.ac.uk/courses/PG00508/1/MA-Conflict-Resolution,Conflict Resolution,MA
+https://www.essex.ac.uk/courses/UG01658/1/BA-International-Affairs-and-Economics,International Affairs And Economics,BA
+https://www.essex.ac.uk/courses/PR00914/5/PhD-Government,Government,PhD
+https://www.essex.ac.uk/courses/PR00914/1/PhD-Government,Government,PhD
+https://www.essex.ac.uk/courses/PR00914/3/PhD-Government,Government,PhD
+https://www.essex.ac.uk/courses/PR00914/2/MPhil-Government,Government,MPhil
+https://www.essex.ac.uk/courses/PR01129/2/MPhil-Journalism,Journalism,MPhil
+https://www.essex.ac.uk/courses/UG01020/1/BA-Multimedia-Journalism,Multimedia Journalism,BA
+https://www.essex.ac.uk/courses/PR01129/1/PhD-Journalism,Journalism,PhD
+https://www.essex.ac.uk/courses/UG01100/1/BA-Journalism-and-Politics,Journalism And Politics,BA
+https://www.essex.ac.uk/courses/PR01129/3/MSc-by-Dissertation-Journalism,By Dissertation Journalism,MSc
+https://www.essex.ac.uk/courses/UG01514/1/BA-Journalism-and-Language-Studies,Journalism And Language Studies,BA
+https://www.essex.ac.uk/courses/PG01546/1/MA-International-Journalism,International Journalism,MA
+https://www.essex.ac.uk/courses/UG00301/2/BA-Modern-Languages-with-Latin-American-Studies,Modern Languages With Latin American Studies,BA
+https://www.essex.ac.uk/courses/UG01412/1/BA-Language-Studies-with-Latin-American-Studies,Language Studies With Latin American Studies,BA
+https://www.essex.ac.uk/courses/UG00301/1/BA-Modern-Languages-with-Latin-American-Studies,Modern Languages With Latin American Studies,BA
+https://www.essex.ac.uk/courses/PG01588/1/LLM-International-Criminal-Law,International Criminal Law,LLM
+https://www.essex.ac.uk/courses/UG01050/1/LLB-Law-with-Philosophy,Law With Philosophy,LLB
+https://www.essex.ac.uk/courses/UG00235/2/LLB-Law,Law,LLB
+https://www.essex.ac.uk/courses/UG00235/3/Integrated-Master-in-Law-Law,Master In Law Law,Integrated
+https://www.essex.ac.uk/courses/PR00931/5/PhD-Law,Law,PhD
+https://www.essex.ac.uk/courses/PG01513/1/LLM-International-Human-Rights-and-Economic-Law,International Human Rights And Economic Law,LLM
+https://www.essex.ac.uk/courses/PG01105/1/LLM-International-Trade-and-Maritime-Law,International Trade And Maritime Law,LLM
+https://www.essex.ac.uk/courses/PG00644/1/LLM-International-Trade-Law,International Trade Law,LLM
+https://www.essex.ac.uk/courses/PG01590/1/LLM-Law-and-Technology,Law And Technology,LLM
+https://www.essex.ac.uk/courses/PG01105/2/LLM-International-Trade-and-Maritime-Law,International Trade And Maritime Law,LLM
+https://www.essex.ac.uk/courses/PG00633/1/LLM-International-Commercial-and-Business-Law,International Commercial And Business Law,LLM
+https://www.essex.ac.uk/courses/UG00235/1/LLB-Law,Law,LLB
+https://www.essex.ac.uk/courses/UG01021/1/LLB-Law-Senior-Status,Law Senior Status,LLB
+https://www.essex.ac.uk/courses/PG00633/3/LLM-International-Commercial-and-Business-Law,International Commercial And Business Law,LLM
+https://www.essex.ac.uk/courses/UG00326/1/BA-Philosophy-and-Law,Philosophy And Law,BA
+https://www.essex.ac.uk/courses/PG01350/1/LLM-Maritime-Law,Maritime Law,LLM
+https://www.essex.ac.uk/courses/PG01386/1/LLM-International-Law,International Law,LLM
+https://www.essex.ac.uk/courses/PR00931/1/PhD-Law,Law,PhD
+https://www.essex.ac.uk/courses/PR00931/2/MPhil-Law,Law,MPhil
+https://www.essex.ac.uk/courses/PG01363/1/LLM-Corporate-Responsibility-and-Business-Law,Corporate Responsibility And Business Law,LLM
+https://www.essex.ac.uk/courses/UG01362/1/LLB-Licence-English-and-French-Law-Double-Degree,Licence English And French Law Double Degree,LLB
+https://www.essex.ac.uk/courses/UG00239/1/BA-Liberal-Arts,Liberal Arts,BA
+https://www.essex.ac.uk/courses/UG01651/1/BA-Urban-Sustainability-Studies,Urban Sustainability Studies,BA
+https://www.essex.ac.uk/courses/UG00239/2/BA-Liberal-Arts,Liberal Arts,BA
+https://www.essex.ac.uk/courses/UG01414/1/BA-Language-Studies-and-Linguistics,Language Studies And Linguistics,BA
+https://www.essex.ac.uk/courses/PR00971/3/PhD-Psycholinguistics,Psycholinguistics,PhD
+https://www.essex.ac.uk/courses/PR00981/1/PhD-Sociolinguistics,Sociolinguistics,PhD
+https://www.essex.ac.uk/courses/PR00934/1/PhD-Linguistics,Linguistics,PhD
+https://www.essex.ac.uk/courses/UG00241/2/BA-Linguistics,Linguistics,BA
+https://www.essex.ac.uk/courses/PR01562/1/PhD-Languages-and-Cultures,Languages And Cultures,PhD
+https://www.essex.ac.uk/courses/PR00934/3/PhD-Linguistics,Linguistics,PhD
+https://www.essex.ac.uk/courses/PR00971/1/PhD-Psycholinguistics,Psycholinguistics,PhD
+https://www.essex.ac.uk/courses/PG00662/2/MRes-Linguistics,Linguistics,MRes
+https://www.essex.ac.uk/courses/PR00934/5/PhD-Linguistics,Linguistics,PhD
+https://www.essex.ac.uk/courses/PR00861/1/PhD-Applied-Linguistics,Applied Linguistics,PhD
+https://www.essex.ac.uk/courses/PG00662/1/MA-Linguistics,Linguistics,MA
+https://www.essex.ac.uk/courses/UG00327/1/BA-Philosophy-and-Literature,Philosophy And Literature,BA
+https://www.essex.ac.uk/courses/UG00296/1/BA-Modern-Languages-and-Linguistics,Modern Languages And Linguistics,BA
+https://www.essex.ac.uk/courses/UG00241/1/BA-Linguistics,Linguistics,BA
+https://www.essex.ac.uk/courses/UG00131/3/Integrated-Master-in-Linguistics-English-Language-and-Linguistics,Master In Linguistics English Language And Linguistics,Integrated
+https://www.essex.ac.uk/courses/PG00448/1/MA-Applied-Linguistics,Applied Linguistics,MA
+https://www.essex.ac.uk/courses/PG00751/1/MA-Psycholinguistics,Psycholinguistics,MA
+https://www.essex.ac.uk/courses/UG01289/1/BA-English-Language-with-Media-Communication,English Language With Media Communication,BA
+https://www.essex.ac.uk/courses/PR00861/3/PhD-Applied-Linguistics,Applied Linguistics,PhD
+https://www.essex.ac.uk/courses/PG00665/1/MA-Literature,Literature,MA
+https://www.essex.ac.uk/courses/UG00139/1/BA-English-Literature,English Literature,BA
+https://www.essex.ac.uk/courses/PG01383/1/MA-Modern-and-Contemporary-Literature,Modern And Contemporary Literature,MA
+https://www.essex.ac.uk/courses/UG01086/1/BA-English-and-Comparative-Literature,English And Comparative Literature,BA
+https://www.essex.ac.uk/courses/PR00935/5/PhD-Literature,Literature,PhD
+https://www.essex.ac.uk/courses/UG00139/2/BA-English-Literature,English Literature,BA
+https://www.essex.ac.uk/courses/PR00935/1/PhD-Literature,Literature,PhD
+https://www.essex.ac.uk/courses/PG00835/1/MA-Audiovisual-and-Literary-Translation,Audiovisual And Literary Translation,MA
+https://www.essex.ac.uk/courses/UG00088/3/Integrated-Master-in-Literature-Creative-Writing,Master In Literature Creative Writing,Integrated
+https://www.essex.ac.uk/courses/PR00935/2/MPhil-Literature,Literature,MPhil
+https://www.essex.ac.uk/courses/PR00935/4/MA-by-Dissertation-Literature,By Dissertation Literature,MA
+https://www.essex.ac.uk/courses/PR00941/3/MSc-by-Dissertation-Marine-Biology,By Dissertation Marine Biology,MSc
+https://www.essex.ac.uk/courses/PR01395/4/PhD-Tropical-Marine-Biology,Tropical Marine Biology,PhD
+https://www.essex.ac.uk/courses/PR00941/1/PhD-Marine-Biology,Marine Biology,PhD
+https://www.essex.ac.uk/courses/PG00679/1/MSc-Marketing,Marketing,MSc
+https://www.essex.ac.uk/courses/PG01547/1/MSc-Digital-Marketing-and-Analytics,Digital Marketing And Analytics,MSc
+https://www.essex.ac.uk/courses/PG00441/1/MA-Advertising-Marketing-and-the-Media,Advertising Marketing And The Media,MA
+https://www.essex.ac.uk/courses/UG00264/1/BSc-Marketing,Marketing,BSc
+https://www.essex.ac.uk/courses/UG00269/1/BSc-Mathematics,Mathematics,BSc
+https://www.essex.ac.uk/courses/PR00862/1/PhD-Applied-Mathematics,Applied Mathematics,PhD
+https://www.essex.ac.uk/courses/PR00955/1/PhD-Operational-Research,Operational Research,PhD
+https://www.essex.ac.uk/courses/PR00862/2/MPhil-Applied-Mathematics,Applied Mathematics,MPhil
+https://www.essex.ac.uk/courses/UG00269/3/Integrated-Master-in-Mathematics-Mathematics,Master In Mathematics Mathematics,Integrated
+https://www.essex.ac.uk/courses/UG00285/1/BSc-Mathematics-with-Physics,Mathematics With Physics,BSc
+https://www.essex.ac.uk/courses/PG00368/2/MSc-Mathematics,Mathematics,MSc
+https://www.essex.ac.uk/courses/PR00975/1/PhD-Pure-Mathematics,Pure Mathematics,PhD
+https://www.essex.ac.uk/courses/UG00269/2/BSc-Mathematics,Mathematics,BSc
+https://www.essex.ac.uk/courses/UG00105/1/BSc-Economics-and-Mathematics,Economics And Mathematics,BSc
+https://www.essex.ac.uk/courses/PG00368/3/Postgraduate-Diploma-Mathematics,Diploma Mathematics,Postgraduate
+https://www.essex.ac.uk/courses/PR00943/1/PhD-Mathematics,Mathematics,PhD
+https://www.essex.ac.uk/courses/PG01481/1/MSc-Politics-Communications-and-Data-Analytics,Politics Communications And Data Analytics,MSc
+https://www.essex.ac.uk/courses/UG01073/1/Integrated-Master-in-Modern-Languages-Modern-Languages-Translation,Master In Modern Languages Modern Languages Translation,Integrated
+https://www.essex.ac.uk/courses/UG00294/1/BA-Modern-Languages,Modern Languages,BA
+https://www.essex.ac.uk/courses/UG00222/1/BA-International-Relations-and-Modern-Languages,International Relations And Modern Languages,BA
+https://www.essex.ac.uk/courses/UG01535/1/Integrated-Master-in-Science-Nursing-Dual-Award-in-Adult-and-Mental-Health,Master In Science Nursing Dual Award In Adult And Mental Health,Integrated
+https://www.essex.ac.uk/courses/PR00953/3/MSc-by-Dissertation-Nursing-Studies,By Dissertation Nursing Studies,MSc
+https://www.essex.ac.uk/courses/PR00953/2/MPhil-Nursing-Studies,Nursing Studies,MPhil
+https://www.essex.ac.uk/courses/PR00953/1/PhD-Nursing-Studies,Nursing Studies,PhD
+https://www.essex.ac.uk/courses/PR00954/4/Professional-Doctorate-Occupational-Therapy,Doctorate Occupational Therapy,Professional
+https://www.essex.ac.uk/courses/UG00318/2/BSc-Occupational-Therapy,Occupational Therapy,BSc
+https://www.essex.ac.uk/courses/PG00697/1/MSc-Occupational-Therapy-Pre-Registration,Occupational Therapy Pre Registration,MSc
+https://www.essex.ac.uk/courses/PR00954/1/PhD-Occupational-Therapy,Occupational Therapy,PhD
+https://www.essex.ac.uk/courses/PR00954/2/MPhil-Occupational-Therapy,Occupational Therapy,MPhil
+https://www.essex.ac.uk/courses/PR00954/3/MSc-by-Dissertation-Occupational-Therapy,By Dissertation Occupational Therapy,MSc
+https://www.essex.ac.uk/courses/PG01534/1/MA-Western-Marxism-and-Translation,Western Marxism And Translation,MA
+https://www.essex.ac.uk/courses/PG00706/1/MA-Philosophy,Philosophy,MA
+https://www.essex.ac.uk/courses/UG00334/1/BA-Philosophy-Politics-and-Economics,Philosophy Politics And Economics,BA
+https://www.essex.ac.uk/courses/PR00957/5/PhD-Philosophy,Philosophy,PhD
+https://www.essex.ac.uk/courses/UG01567/1/BA-Philosophy-Ethics-and-Sustainability,Philosophy Ethics And Sustainability,BA
+https://www.essex.ac.uk/courses/PG00706/3/Graduate-Diploma-Philosophy,Diploma Philosophy,Graduate
+https://www.essex.ac.uk/courses/UG00321/1/BA-Philosophy,Philosophy,BA
+https://www.essex.ac.uk/courses/UG00087/1/BA-Continental-Philosophy,Continental Philosophy,BA
+https://www.essex.ac.uk/courses/PR00957/2/MPhil-Philosophy,Philosophy,MPhil
+https://www.essex.ac.uk/courses/UG00321/2/BA-Philosophy,Philosophy,BA
+https://www.essex.ac.uk/courses/UG00331/1/BA-Philosophy-and-Sociology,Philosophy And Sociology,BA
+https://www.essex.ac.uk/courses/UG00335/1/BA-Philosophy-Religion-and-Ethics,Philosophy Religion And Ethics,BA
+https://www.essex.ac.uk/courses/PR00957/4/MA-by-Dissertation-Philosophy,By Dissertation Philosophy,MA
+https://www.essex.ac.uk/courses/UG00330/1/BA-Philosophy-and-Politics,Philosophy And Politics,BA
+https://www.essex.ac.uk/courses/PG01543/1/MA-Social-and-Political-Thought,Social And Political Thought,MA
+https://www.essex.ac.uk/courses/UG00331/2/BA-Philosophy-and-Sociology,Philosophy And Sociology,BA
+https://www.essex.ac.uk/courses/PR00957/1/PhD-Philosophy,Philosophy,PhD
+https://www.essex.ac.uk/courses/PG01609/1/MA-Western-Marxism,Western Marxism,MA
+https://www.essex.ac.uk/courses/PG01524/3/Postgraduate-Certificate-Advanced-Musculoskeletal-Assessment-and-Practice-Hand-Therapy,Certificate Advanced Musculoskeletal Assessment And Practice Hand Therapy,Postgraduate
+https://www.essex.ac.uk/courses/PR01344/1/PhD-Musculoskeletal-Practice,Musculoskeletal Practice,PhD
+https://www.essex.ac.uk/courses/PG01500/3/Postgraduate-Certificate-Musculoskeletal-Practice,Certificate Musculoskeletal Practice,Postgraduate
+https://www.essex.ac.uk/courses/PR01344/2/MPhil-Musculoskeletal-Practice,Musculoskeletal Practice,MPhil
+https://www.essex.ac.uk/courses/PG00438/1/MSc-Advanced-Musculoskeletal-Assessment-and-Practice,Advanced Musculoskeletal Assessment And Practice,MSc
+https://www.essex.ac.uk/courses/PR00961/6/D-Physiotherapy-Physiotherapy,Physiotherapy Physiotherapy,D
+https://www.essex.ac.uk/courses/PR00961/1/PhD-Physiotherapy,Physiotherapy,PhD
+https://www.essex.ac.uk/courses/PG01604/1/Postgraduate-Certificate-International-Musculoskeletal-Ultrasound-Imaging,Certificate International Musculoskeletal Ultrasound Imaging,Postgraduate
+https://www.essex.ac.uk/courses/PR00961/2/MPhil-Physiotherapy,Physiotherapy,MPhil
+https://www.essex.ac.uk/courses/PG01604/3/MSc-International-Musculoskeletal-Ultrasound-Imaging,International Musculoskeletal Ultrasound Imaging,MSc
+https://www.essex.ac.uk/courses/PG01524/2/Postgraduate-Diploma-Advanced-Musculoskeletal-Assessment-and-Practice-Hand-Therapy,Diploma Advanced Musculoskeletal Assessment And Practice Hand Therapy,Postgraduate
+https://www.essex.ac.uk/courses/PG01524/1/MSc-Advanced-Musculoskeletal-Assessment-and-Practice-Hand-Therapy,Advanced Musculoskeletal Assessment And Practice Hand Therapy,MSc
+https://www.essex.ac.uk/courses/UG00361/4/BSc-Psychology,Psychology,BSc
+https://www.essex.ac.uk/courses/PR00972/3/MSc-by-Dissertation-Psychology,By Dissertation Psychology,MSc
+https://www.essex.ac.uk/courses/UG01035/1/BA-Psychosocial-and-Psychoanalytic-Studies,Psychosocial And Psychoanalytic Studies,BA
+https://www.essex.ac.uk/courses/UG00362/3/Integrated-Master-in-Science-Psychology-with-Cognitive-Neuroscience,Master In Science Psychology With Cognitive Neuroscience,Integrated
+https://www.essex.ac.uk/courses/PR00972/5/PhD-Psychology,Psychology,PhD
+https://www.essex.ac.uk/courses/UG01533/1/BSc-Sport-and-Exercise-Psychology,Sport And Exercise Psychology,BSc
+https://www.essex.ac.uk/courses/PR00972/1/PhD-Psychology,Psychology,PhD
+https://www.essex.ac.uk/courses/PG00755/1/MSc-Psychology,Psychology,MSc
+https://www.essex.ac.uk/courses/PG01145/1/MSc-Cognitive-Neuroscience-and-Neuropsychology,Cognitive Neuroscience And Neuropsychology,MSc
+https://www.essex.ac.uk/courses/PR00989/1/PhD-Sport-and-Exercise-Psychology,Sport And Exercise Psychology,PhD
+https://www.essex.ac.uk/courses/PG00764/1/MSc-Research-Methods-in-Psychology,Research Methods In Psychology,MSc
+https://www.essex.ac.uk/courses/PR00972/4/PhD-Psychology,Psychology,PhD
+https://www.essex.ac.uk/courses/PG01146/1/MSc-Sport-and-Exercise-Psychology,Sport And Exercise Psychology,MSc
+https://www.essex.ac.uk/courses/UG01028/1/BA-Psychodynamic-Practice,Psychodynamic Practice,BA
+https://www.essex.ac.uk/courses/UG01300/1/BSc-Psychology-with-Economics,Psychology With Economics,BSc
+https://www.essex.ac.uk/courses/UG00361/1/BA-Psychology,Psychology,BA
+https://www.essex.ac.uk/courses/UG01035/2/BA-Psychosocial-and-Psychoanalytic-Studies,Psychosocial And Psychoanalytic Studies,BA
+https://www.essex.ac.uk/courses/UG00362/1/BSc-Psychology-with-Cognitive-Neuroscience,Psychology With Cognitive Neuroscience,BSc
+https://www.essex.ac.uk/courses/UG00361/2/BSc-Psychology,Psychology,BSc
+https://www.essex.ac.uk/courses/PR00864/1/PhD-Applied-Psychology,Applied Psychology,PhD
+https://www.essex.ac.uk/courses/PR01394/4/PhD-Psychology-with-Cognitive-Neuroscience-and-Neuropsychology,Psychology With Cognitive Neuroscience And Neuropsychology,PhD
+https://www.essex.ac.uk/courses/PR00864/2/MPhil-Applied-Psychology,Applied Psychology,MPhil
+https://www.essex.ac.uk/courses/PR00969/1/PhD-Psychoanalytic-Studies,Psychoanalytic Studies,PhD
+https://www.essex.ac.uk/courses/PR01458/1/Professional-Doctorate-Psychodynamic-Counselling,Doctorate Psychodynamic Counselling,Professional
+https://www.essex.ac.uk/courses/PG00749/1/Graduate-Diploma-Psychodynamic-Approaches,Diploma Psychodynamic Approaches,Graduate
+https://www.essex.ac.uk/courses/UG00413/3/FdA-Therapeutic-Communication-and-Therapeutic-Organisations,Therapeutic Communication And Therapeutic Organisations,FdA
+https://www.essex.ac.uk/courses/UG00413/2/BA-Therapeutic-Communication-and-Therapeutic-Organisations,Therapeutic Communication And Therapeutic Organisations,BA
+https://www.essex.ac.uk/courses/PG01503/1/MA-Gender-and-Sexuality-Studies,Gender And Sexuality Studies,MA
+https://www.essex.ac.uk/courses/PR00976/1/PhD-Refugee-Care,Refugee Care,PhD
+https://www.essex.ac.uk/courses/PG00647/3/MA-Jungian-and-Post-Jungian-Studies,Jungian And Post Jungian Studies,MA
+https://www.essex.ac.uk/courses/PG00747/1/MA-Psychoanalytic-Studies,Psychoanalytic Studies,MA
+https://www.essex.ac.uk/courses/PR01457/1/Professional-Doctorate-Analytical-Psychology,Doctorate Analytical Psychology,Professional
+https://www.essex.ac.uk/courses/PR00968/1/Professional-Doctorate-Psychoanalytic-Psychotherapy,Doctorate Psychoanalytic Psychotherapy,Professional
+https://www.essex.ac.uk/courses/PG00750/2/MA-Psychodynamic-Counselling-and-Psychotherapy,Psychodynamic Counselling And Psychotherapy,MA
+https://www.essex.ac.uk/courses/PG00647/1/MA-Jungian-and-Post-Jungian-Studies,Jungian And Post Jungian Studies,MA
+https://www.essex.ac.uk/courses/PR00970/1/Professional-Doctorate-Psychodynamic-Psychotherapy,Doctorate Psychodynamic Psychotherapy,Professional
+https://www.essex.ac.uk/courses/PG00750/3/MA-Psychodynamic-Counselling-and-Psychotherapy,Psychodynamic Counselling And Psychotherapy,MA
+https://www.essex.ac.uk/courses/PR00976/2/MA-by-Dissertation-Refugee-Care,By Dissertation Refugee Care,MA
+https://www.essex.ac.uk/courses/PG00763/1/MA-Refugee-Care,Refugee Care,MA
+https://www.essex.ac.uk/courses/UG00413/1/FdA-Therapeutic-Communication-and-Therapeutic-Organisations,Therapeutic Communication And Therapeutic Organisations,FdA
+https://www.essex.ac.uk/courses/PG00763/3/MA-Refugee-Care,Refugee Care,MA
+https://www.essex.ac.uk/courses/PR01130/1/PhD-Social-Work,Social Work,PhD
+https://www.essex.ac.uk/courses/PR00977/1/Professional-Doctorate-Social-Care-Education,Doctorate Social Care Education,Professional
+https://www.essex.ac.uk/courses/PR01130/2/MPhil-Social-Work,Social Work,MPhil
+https://www.essex.ac.uk/courses/PR01130/3/MSc-by-Dissertation-Social-Work,By Dissertation Social Work,MSc
+https://www.essex.ac.uk/courses/UG01522/1/BA-Sociology-and-Health,Sociology And Health,BA
+https://www.essex.ac.uk/courses/PG01325/1/MA-Social-Work,Social Work,MA
+https://www.essex.ac.uk/courses/UG01420/2/BA-Social-Sciences,Social Sciences,BA
+https://www.essex.ac.uk/courses/PR00996/1/PhD-Survey-Methodology,Survey Methodology,PhD
+https://www.essex.ac.uk/courses/PG00813/1/MSc-Survey-Methods-for-Social-Research,Survey Methods For Social Research,MSc
+https://www.essex.ac.uk/courses/PR00984/3/PhD-Sociology,Sociology,PhD
+https://www.essex.ac.uk/courses/PR00996/2/MPhil-Survey-Methodology,Survey Methodology,MPhil
+https://www.essex.ac.uk/courses/PG01140/2/MSc-Migration-Studies,Migration Studies,MSc
+https://www.essex.ac.uk/courses/PR00984/1/PhD-Sociology,Sociology,PhD
+https://www.essex.ac.uk/courses/PG01347/1/MSc-Economics-with-Data-Science,Economics With Data Science,MSc
+https://www.essex.ac.uk/courses/PG01466/1/MA-Economics-with-Public-Policy,Economics With Public Policy,MA
+https://www.essex.ac.uk/courses/PG01140/1/MA-Migration-Studies,Migration Studies,MA
+https://www.essex.ac.uk/courses/UG01420/1/BA-Social-Sciences,Social Sciences,BA
+https://www.essex.ac.uk/courses/UG00378/1/BA-Sociology,Sociology,BA
+https://www.essex.ac.uk/courses/PG00782/1/MA-Sociological-Research-Methods,Sociological Research Methods,MA
+https://www.essex.ac.uk/courses/PR01387/1/PhD-Psychosocial-Studies,Psychosocial Studies,PhD
+https://www.essex.ac.uk/courses/PG00783/1/MA-Sociology,Sociology,MA
+https://www.essex.ac.uk/courses/UG00378/2/BA-Sociology,Sociology,BA
+https://www.essex.ac.uk/courses/PR00984/5/PhD-Sociology,Sociology,PhD
+https://www.essex.ac.uk/courses/PG01379/1/Master-of-Public-Policy-The-Essex-MPP,Of Public Policy The Essex Mpp,Master
+https://www.essex.ac.uk/courses/UG00372/1/BA-Sociology-with-Social-Psychology,Sociology With Social Psychology,BA
+https://www.essex.ac.uk/courses/UG00289/1/BA-Media-and-Digital-Culture,Media And Digital Culture,BA
+https://www.essex.ac.uk/courses/PR00987/3/Professional-Doctorate-Speech-and-Language-Therapy,Doctorate Speech And Language Therapy,Professional
+https://www.essex.ac.uk/courses/PR00987/2/MPhil-Speech-and-Language-Therapy,Speech And Language Therapy,MPhil
+https://www.essex.ac.uk/courses/UG00403/1/BSc-Sports-Therapy,Sports Therapy,BSc
+https://www.essex.ac.uk/courses/PR01312/2/MPhil-Health-and-Physical-Activity,Health And Physical Activity,MPhil
+https://www.essex.ac.uk/courses/PR00990/2/MPhil-Sport-and-Exercise-Science,Sport And Exercise Science,MPhil
+https://www.essex.ac.uk/courses/UG00399/2/BSc-Sports-and-Exercise-Science,Sports And Exercise Science,BSc
+https://www.essex.ac.uk/courses/PR00989/2/MPhil-Sport-and-Exercise-Psychology,Sport And Exercise Psychology,MPhil
+https://www.essex.ac.uk/courses/PR01311/6/DST-Sports-Therapy,Sports Therapy,DST
+https://www.essex.ac.uk/courses/PG01127/1/MSc-Sport-and-Exercise-Science,Sport And Exercise Science,MSc
+https://www.essex.ac.uk/courses/PR00990/1/PhD-Sport-and-Exercise-Science,Sport And Exercise Science,PhD
+https://www.essex.ac.uk/courses/UG00399/3/Integrated-Master-in-Science-Sports-and-Exercise-Science,Master In Science Sports And Exercise Science,Integrated
+https://www.essex.ac.uk/courses/PG01515/1/MSc-Strength-and-Conditioning,Strength And Conditioning,MSc
+https://www.essex.ac.uk/courses/PR00990/6/DSES-Sport-and-Exercise-Science,Sport And Exercise Science,DSES
+https://www.essex.ac.uk/courses/UG01057/1/BSc-Sports-Performance-and-Coaching,Sports Performance And Coaching,BSc
+https://www.essex.ac.uk/courses/PR01311/1/PhD-Sports-Therapy,Sports Therapy,PhD
+https://www.essex.ac.uk/courses/UG00399/1/BSc-Sports-and-Exercise-Science,Sports And Exercise Science,BSc
+https://www.essex.ac.uk/courses/PR01323/1/DSPC-Sport-Performance-and-Coaching,Sport Performance And Coaching,DSPC
+https://www.essex.ac.uk/courses/PR01310/2/MPhil-Health-and-Exercise-Sciences,Health And Exercise Sciences,MPhil
+https://www.essex.ac.uk/courses/PR01311/3/MSc-by-Dissertation-Sports-Therapy,By Dissertation Sports Therapy,MSc
+https://www.essex.ac.uk/courses/PG01539/1/MSc-Sports-Therapy,Sports Therapy,MSc
+https://www.essex.ac.uk/courses/PR01311/2/MPhil-Sports-Therapy,Sports Therapy,MPhil
+https://www.essex.ac.uk/courses/PG01134/1/MA-Conference-Interpreting-and-Translation-Chinese-English,Conference Interpreting And Translation Chinese English,MA
+https://www.essex.ac.uk/courses/PG01288/1/MA-Chinese-English-Translation-and-Professional-Practice,Chinese English Translation And Professional Practice,MA
+https://www.essex.ac.uk/courses/PR01356/1/PhD-Translation-Studies-Translation-Interpreting-and-Subtitling,Translation Studies Translation Interpreting And Subtitling,PhD
+https://www.essex.ac.uk/courses/PR01356/3/PhD-Translation-Studies-Translation-Interpreting-and-Subtitling,Translation Studies Translation Interpreting And Subtitling,PhD
+https://www.essex.ac.uk/courses/PG01071/1/MA-Translation-and-Professional-Practice,Translation And Professional Practice,MA
+https://www.essex.ac.uk/courses/PG01072/1/MA-Advanced-Interpreting-with-Specialised-Translation-Chinese-English,Advanced Interpreting With Specialised Translation Chinese English,MA
+https://www.essex.ac.uk/courses/UG01556/1/BA-Modern-Languages-Translation-Interpreting-and-Cultural-Mediation,Modern Languages Translation Interpreting And Cultural Mediation,BA
+https://www.essex.ac.uk/courses/PG00836/1/MA-Translation-Interpreting-and-Subtitling,Translation Interpreting And Subtitling,MA

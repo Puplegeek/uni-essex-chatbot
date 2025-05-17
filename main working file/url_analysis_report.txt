@@ -1,0 +1,6 @@
+URL Analysis Report
+File: essex_url_hierarchy_final.csv
+Total URLs: 9063
+Unique URLs: 9063
+Duplicate URLs: 0
+Missing/Empty URLs: 0
