@@ -1,0 +1,533 @@
+---
+key: PG00541/1/LLM-Economic-Social-and-Cultural-Rights
+page_url: https://www.essex.ac.uk/courses/PG00541/1/LLM-Economic-Social-and-Cultural-Rights
+scraped_at: 2025-05-21 01:15:51
+---
+
+Postgraduate Course
+
+# LLM Economic, Social and Cultural Rights
+
+Start date
+
+October 2025
+
+Study mode
+
+Full Time
+Part Time
+
+* [Ask a question](https://www.essex.ac.uk/forms/course-specific-enquiry?CourseSubgroupId=3c2713e1-c268-41d1-be80-c7baa7be8dc6&amp;courseLevelId=%7B735388DB-977F-45D8-A949-0ABD6F71B926%7D&amp;subjectareaid=46883fc8-eab1-4045-b5d5-73752cf4d730)
+* [Get a prospectus](https://www.essex.ac.uk/forms/order-a-printed-prospectus)
+
+## Overview
+
+The details
+
+Course: 
+Economic, Social and Cultural Rights
+
+Start date: 
+October 2025
+
+Study mode: 
+Full-time
+
+Duration: 
+1 year
+
+Location: 
+Colchester Campus
+
+Based in: 
+[Essex Law School](https://www.essex.ac.uk/departments/law)
+
+After the economic crisis and the ongoing COVID-19 pandemic, are you concerned about the impacts of austerity and public health measures on economic, social and cultural rights? Are you interested in public policies and laws – on health, education, housing or food security – and how human rights can make a difference?
+
+Our ground-breaking LLM Economic, Social and Cultural Rights builds on our distinctive expertise and reputation of working on the protection of economic, social and cultural rights in countries around the world and at the United Nations.
+
+We combine cutting-edge scholarship and practice on the legal aspects of realising economic, social and cultural rights, with the latest thinking in the implementation of these rights. The course focuses on:
+
+* International human rights law protections of economic, social and cultural rights* How human rights law is developed through public policy and practice* New tools and methodologies for achieving these rights
+
+We include a range of key law courses to enable our non-law students to develop an understanding of human rights, public international, constitutional and administrative law.
+
+This course is also available on a part-time basis.
+
+Why we're great.
+
+* Work on real-life projects with our Human Rights Centre Clinic
+* You have excellent opportunities to network with scholars, policymakers, and practitioners working on economic, social and cultural rights
+* 3rd in UK for research power in law (Times Higher Education research power measure, Research Excellence Framework 2021)
+
+### Our expert staff
+
+Our work has always been informed by human rights practice and our expert staff have held key positions in the United Nations human rights and development fields, as well as working with national human rights institutions and civil society organisations on economic, social and cultural rights.
+
+At Essex, our objective is to ensure you receive a rigorous academic education that also prepares you for working as a human rights advocate. Every member of our [teaching team](https://www.essex.ac.uk/departments/law/people/academic) is a leading human rights academic, as well as a practitioner in the field.
+
+* [Judith Bueno De Mesquita](https://www.essex.ac.uk/people/bueno81608/judith-bueno-de-mesquita), Lecturer and Deputy Director of the Human Rights Centre Clinic. Judith has previously worked with the UN Special Rapporteur on the Right to Health; and as a consultant with, amongst others, the World Health Organisation, the Independent Panel on Pandemic Preparedness and Response, UNFPA, OHCHR, UNICEF, DFID, Medact and International Planned Parenthood Foundation.* [Dr Koldo Casla](https://www.essex.ac.uk/people/casla69502/koldo-casla), Lecturer and Deputy Director of the Human Rights Centre Clinic. Koldo previously worked as the chief of staff of the Human Rights Commissioner of the Basque Country (Spain) and coordinated the UK social rights NGO Just Fair. He has also been a research consultant for Amnesty International in Spain and Crisis in the UK, among others.* [Professor Paul Hunt](http://www.essex.ac.uk/law/staff/profile.aspx?ID=827). Paul has previously been Special Adviser on Human Rights in the World Health Organisation, UN Special Rapporteur on the Right to Health 2002-08, and member of the UN Committee on Economic and Social Rights 1999-2002. (Currently on leave leading the New Zealand Human Rights Commission).
+
+### Specialist facilities
+
+* Participate in various legal competitions to hone your debating, mediation and negotiation skills* Work on key human rights projects at our [Human Rights Clinic](https://www.essex.ac.uk/centres-and-institutes/human-rights/human-rights-centre-clinic)* Network at our student-run [Law Society](https://www.essexstudent.com/organisation/6858/), [Human Rights Society](https://www.essexstudent.com/organisation/6738/), and [Bar Society](https://www.essexstudent.com/organisation/9825/), which provides legal advice to the Commonwealth Students' Association (CSA)* Volunteer at the [Essex Law Clinic](https://www.essex.ac.uk/departments/law/essex-law-clinic) where you can work alongside practicing solicitors to offer legal advice to clients* Join our [Model United Nations society](https://www.essexstudent.com/organisation/6954/), which can improve your skills of argumentation, oral presentation and research* Take advantage of networking opportunities throughout the year with visiting law firms
+
+Aside from the [Human Rights Clinic](https://www.essex.ac.uk/centres-and-institutes/human-rights), the Human Rights Centre has a number of specialist projects:
+
+* [Essex Business and Human Rights Project](https://www.essex.ac.uk/centres-and-institutes/human-rights/research-and-practice/essex-business-and-human-rights)* [International Centre on Human Rights and Drug Policy](https://www.essex.ac.uk/research-projects/international-centre-on-human-rights-and-drug-policy)* [Essex Autonomy Project](https://www.essex.ac.uk/research-projects/essex-autonomy-project)* [Human Rights Local](https://www.essex.ac.uk/research-projects/human-rights-local)* [Human Rights, Big Data and Technology Project](https://www.essex.ac.uk/research-projects/human-rights-big-data-and-technology)* [Digital Verification Unit](https://www.essex.ac.uk/research-projects/digital-verification-unit) * [Detention, Rights and Social Justice Programme](https://www.essex.ac.uk/research-projects/detention-rights-and-social-justice-programme)
+
+### Your future
+
+The majority of our students go on, or return, to work in human rights as litigators, in NGOs and international organisations like the UN, in government (particularly Ministries of Foreign Affairs), national human rights institutions, think-tanks and in academia. They are a conspicuous presence in all the key human rights hubs in the world. The Human Rights Centre has a strong tradition in the field of economic, social and cultural rights, and our alumni occupy leadership and research positions in leading international human rights civil society organisations, and have been appointed as UN human rights independent experts.
+
+We are first university in the UK to sign a memorandum of understanding with the United Nations High Commission for Refugees (UNHCR). This creates internship and research opportunities for our postgraduate students and is based on our long-established expertise in international humanitarian law.
+
+During the year, we hold a careers session for our students in which we reflect upon our own careers and how they have been built as well as those from former students. We are always available to discuss career options and if you are interested in a particular area of human rights, we can link you up with the relevant alumni to offer advice.
+
+We work with the University's [Careers Services](http://www.essex.ac.uk/careers/) to help you find out about further work experience, internships, placements, and voluntary opportunities. Take a look at our dedicated careers pages for [Law](https://www.essex.ac.uk/departments/law/careers) and [Human Rights.](https://www.essex.ac.uk/centres-and-institutes/human-rights/career-development)
+
+## Entry requirements
+
+### UK entry requirements
+
+### A 2:2 degree in Law, or a 2:2 joint honours degree that includes at least one of the following subjects:
+
+* Criminology
+* International Relations
+* Law
+* Politics
+* Political Science
+* Sociology
+
+**We will also consider applicants with any other 2:2 degree or above.**
+
+### International & EU entry requirements
+
+We accept a wide range of qualifications from applicants studying in the EU and other countries. Get in touch with any questions you may have about the qualifications we accept. Remember to tell us about the qualifications you have already completed or are currently taking.
+
+AFGHANISTAN 
+ALBANIA 
+ALGERIA 
+ANDORRA 
+ANGOLA 
+ANTIGUA AND BARBUADA 
+ARGENTINA 
+ARMENIA 
+ARUBA 
+AUSTRALIA 
+AUSTRIA 
+AZERBAIJAN 
+BAHAMAS 
+BAHRAIN 
+BANGLADESH 
+BARBADOS 
+BELARUS (BYELORUSSIA) 
+BELGIUM 
+BELIZE 
+BENIN 
+BERMUDA 
+BHUTAN 
+BOLIVIA 
+BOSNIA AND HERZEGOVINA 
+BOTSWANA 
+BRAZIL 
+BRUNEI 
+BULGARIA 
+BURKINA FASO 
+BURUNDI 
+CAMBODIA (KAMPUCHEA, KHMER R) 
+CAMEROON 
+CANADA 
+CAPE VERDE ISLANDS 
+CENTRAL AFRICAN REP 
+CHAD 
+CHILE 
+CHINA 
+COLOMBIA 
+COMOROS 
+CONGO 
+CONGO (DEM REB, ZAIRE) 
+COSTA RICA 
+CROATIA 
+CUBA 
+CYPRUS
+CZECH REPUBLIC 
+DENMARK 
+DJIBOUTI 
+DOMINICA 
+DOMINICAN REP 
+EAST TIMOR 
+ECUADOR 
+EGYPT 
+EL SALVADOR 
+EQUATORIAL GUINEA 
+ERITREA 
+ESTONIA 
+ETHIOPIA (ABYSSINIA) 
+FIJI 
+FINLAND 
+FRANCE 
+GABON 
+GAMBIA 
+GEORGIA 
+GERMANY 
+GHANA 
+GIBRALTAR 
+GILBERT ISLANDS (KIRIBATI) 
+GREECE 
+GRENADA 
+GUATEMALA 
+GUIANA, FRENCH 
+GUINEA 
+GUINEA BISSAU 
+GUYANA 
+HAITI 
+HONDURAS 
+HONG KONG 
+HUNGARY 
+ICELAND 
+INDIA 
+INDONESIA 
+IRAN (ISLAMIC REP) 
+IRAQ 
+IRELAND, REP 
+ISRAEL 
+ITALY 
+IVORY COAST 
+JAMAICA 
+JAPAN 
+JORDAN 
+KAZAKHSTAN 
+KENYA 
+KOREA SOUTH 
+KOSOVO 
+KUWAIT 
+KYRGYZSTAN (KIRGIZIA) 
+LAOS 
+LATVIA 
+LEBANON 
+LESOTHO 
+LIBERIA 
+LIBYA 
+LIECHTENSTEIN 
+LITHUANIA 
+LUXEMBOURG 
+MADAGASCAR (MALAGASY REP) 
+MALAWI 
+MALAYSIA 
+MALDIVE ISLANDS 
+MALI 
+MALTA 
+MARSHALL ISLANDS 
+MAURITANIA 
+MAURITIUS 
+MEXICO 
+MOLDOVA 
+MONACO 
+MONGOLIA, OUTER 
+MONTENEGRO 
+MONTSERRAT 
+MOROCCO 
+MOZAMBIQUE 
+MYANMAR (formerly Burma) 
+NAMIBIA 
+NAURU 
+NEPAL 
+NETHERLANDS (HOLLAND) 
+NEW ZEALAND 
+NICARAGUA 
+NIGER 
+NIGERIA 
+NORTH MACEDONIA 
+NORWAY 
+OMAN (MUSCAT AND OMAN) 
+PAKISTAN 
+PALESTINE 
+PANAMA 
+PAPUA NEW GUINEA 
+PARAGUAY 
+PERU 
+PHILIPPINES 
+POLAND 
+PORTUGAL (MADEIRA, AZORES) 
+QATAR 
+ROMANIA 
+RUSSIA 
+RWANDA 
+SAMOA (WESTERN) 
+SAN MARINO 
+SAUDI ARABIA 
+SENEGAL 
+SERBIA 
+SEYCHELLES 
+SIERRA LEONE 
+SINGAPORE 
+SLOVAKIA 
+SLOVENIA 
+SOLOMON ISLANDS 
+SOMALI REPUBLIC 
+SOUTH AFRICA 
+SOUTH GEORGE & STH SANDWICH IS
+SOUTH SUDAN 
+SPAIN 
+SRI LANKA (CEYLON) 
+ST. KITTS AND NEVIS 
+ST. LUCIA 
+ST. VINCENT 
+SUDAN 
+SURINAM 
+SWAZILAND 
+SWEDEN 
+SWITZERLAND 
+SYRIA 
+TAIWAN 
+TAJIKISTAN 
+TANZANIA 
+THAILAND 
+TOGO 
+TONGA 
+TRINIDAD AND TOBAGO 
+TUNISIA 
+TURKEY 
+TURKMENISTAN 
+TUVALU, ALSO ELLICE ISLANDS 
+UGANDA 
+UKRAINE 
+UNITED ARAB EMIRATES 
+UNITED STATES 
+URUGUAY 
+UZBEKISTAN 
+VANUATU 
+VENEZUELA 
+VIETNAM, SOC REP 
+YEMEN (PDR,ADEN,SOCOTRA) 
+ZAMBIA 
+ZIMBABWE
+
+Sorry, the entry requirements for the country that you have selected are not available here. Please contact our Graduate Admissions team at [pgquery@essex.ac.uk](mailto:pgquery@essex.ac.uk) to request the entry requirements for this country.
+
+### English language requirements
+
+  
+
+If English is not your first language, we require IELTS 6.5 overall with a minimum
+component score of 6.0 in writing and 5.5 in all other components.
+
+If you do not meet our IELTS requirements then you may be able to complete a [pre-sessional English
+pathway](https://www.essex.ac.uk/international/pre-sessional/) that enables you to start your course without retaking IELTS.
+
+### Additional Notes
+
+The University uses academic selection criteria to determine an applicant’s ability to
+successfully complete a course at the University of Essex. Where appropriate, we may ask
+for specific information relating to previous modules studied or work experience.
+
+## Structure
+
+### Course structure
+
+Our research-led teaching is continually evolving to address the latest challenges and breakthroughs in the field. The following modules are based on the current course structure and may change in response to new curriculum developments and innovation.
+
+*We understand that deciding where and what to study is a very important decision for you. We'll make all reasonable efforts to provide you with the courses, services and facilities as described on our website and in line with your contract with us. However, if we need to make material changes, for example due to significant disruption, we'll let our applicants and students know as soon as possible.*
+
+Components and modules explained
+
+#### Components
+
+Components are the blocks of study that make up your course. A component may have a set module which you must study, or a number of modules from which you can choose.
+
+Each component has a status and carries a certain number of credits towards your qualification.
+
+|  |  |
+| --- | --- |
+| Status | What this means |
+| **Core** | You must take the set module for this component and you must pass. No failure can be permitted. |
+| **Core with Options** | You can choose which module to study from the available options for this component but you must pass. No failure can be permitted. |
+| **Compulsory** | You must take the set module for this component. There may be limited opportunities to continue on the course/be eligible for the qualification if you fail. |
+| **Compulsory with Options** | You can choose which module to study from the available options for this component. There may be limited opportunities to continue on the course/be eligible for the qualification if you fail. |
+| **Optional** | You can choose which module to study from the available options for this component. There may be limited opportunities to continue on the course/be eligible for the qualification if you fail. |
+
+The modules that are available for you to choose for each component will depend on several factors, including which modules you have chosen for other components, which modules you have completed in previous years of your course, and which term the module is taught in.
+
+#### Modules
+
+Modules are the individual units of study for your course. Each module has its own set of learning outcomes and assessment criteria and also carries a certain number of credits.
+
+In most cases you will study one module per component, but in some cases you may need to study more than one module. For example, a 30-credit component may comprise of either one 30-credit module, or two 15-credit modules, depending on the options available.
+
+Modules may be taught at different times of the year and by a different department or school to the one your course is primarily based in. You can find this information from the [module code](https://www1.essex.ac.uk/modules/codes.aspx). For example, the module code HR100-4-FY means:
+
+| HR | 100 | 4 | FY |
+| --- | --- | --- | --- |
+| The department or school the module will be taught by.  In this example, the module would be taught by the Department of History. | The module number. | The [UK academic level](https://www.gov.uk/what-different-qualification-levels-mean/list-of-qualification-levels) of the module.  A standard undergraduate course will comprise of level 4, 5 and 6 modules - increasing as you progress through the course.  A standard postgraduate taught course will comprise of level 7 modules.  A postgraduate research degree is a level 8 qualification. | The term the module will be taught in.   * **AU**: Autumn term * **SP**: Spring term * **SU**: Summer term * **FY**: Full year * **AP**: Autumn and Spring terms * **PS:** Spring and Summer terms * **AS:** Autumn and Summer terms |
+
+COMPONENT 01: CORE
+
+Dissertation
+
+(60 CREDITS)
+
+You’ll undertake a dissertation of between 15,000-20,000 words in length for your LLM International Human Rights Law course. This is a compulsory element of the course.
+
+[View Dissertation on our Module Directory](https://www1.essex.ac.uk/modules/Default.aspx?coursecode=LW900&year=25)
+
+COMPONENT 02: COMPULSORY
+
+International Human Rights Law: Law and Practice
+
+(30 CREDITS)
+
+What are the contemporary issues within international human rights law? How does the UN promote and protect human rights? Gain a critical and contextual introduction to international human rights law. Build your analytical skills in relation to the subject. Discuss current issues and events in group work.
+
+[View International Human Rights Law: Law and Practice on our Module Directory](https://www1.essex.ac.uk/modules/Default.aspx?coursecode=LW901&year=25)
+
+COMPONENT 03: COMPULSORY
+
+International Human Rights: Theories and Institutions
+
+(15 CREDITS)
+
+The module starts by providing students with an overview of human rights and human rights law. It then introduces students to a range of critical approaches to human rights law, including feminist, TWAIL (Third World Approaches to International Law), postcolonial, and queer approaches. Next, the module looks at the range of international and regional institutions for enforcing human rights, before turning to domestic enforcement.
+The module ensures students on the International Human Rights LLMs have a firm grounding in theoretical approaches to international human rights law, as well as the core institutions for human rights protection.
+
+[View International Human Rights: Theories and Institutions on our Module Directory](https://www1.essex.ac.uk/modules/Default.aspx?coursecode=LW924&year=25)
+
+COMPONENT 04: COMPULSORY
+
+Economic, Social and Cultural Rights in Context
+
+(15 CREDITS)
+
+This module builds on the foundational introduction to Economic, Social and Cultural Rights (ESCR) provided in module International Human Rights Law: Law and Practice.
+Other related modules that may of interest to students of ESCR are: Human Rights and Women, Human Rights Centre Clinic, Protection of Minorities and Indigenous Peoples, Human Rights and Development, Investment, Trade and Human Rights, Business and Human Rights and Human Rights, Social Justice and Social Change.
+This module has been designed to enable students to integrate their subject knowledge with an understanding of sustainable development, acquiring the skills and competencies essential for addressing the urgent sustainability challenges of the 21st century.
+
+[View Economic, Social and Cultural Rights in Context on our Module Directory](https://www1.essex.ac.uk/modules/Default.aspx?coursecode=LW930&year=25)
+
+COMPONENT 05: OPTIONAL
+
+[Economic, Social and Cultural Rights option from list](https://www.essex.ac.uk/component/?componentID=2f0d217e-5cd9-489c-baef-68fb471b0d7a&headerImg=/-/media/header-images/subjects/human-rights-subject-1200x600.jpg&lastYear=1&title=LLM%20Economic%2C%20Social%20and%20Cultural%20Rights)
+
+(15 CREDITS)
+
+COMPONENT 06: OPTIONAL
+
+[Human Rights Law option(s) from list](https://www.essex.ac.uk/component/?componentID=95f31618-e8ea-4683-b6f1-33c6fff44029&headerImg=/-/media/header-images/subjects/human-rights-subject-1200x600.jpg&lastYear=1&title=LLM%20Economic%2C%20Social%20and%20Cultural%20Rights)
+
+(30 CREDITS)
+
+COMPONENT 07: COMPULSORY
+
+Public International Law
+
+(15 CREDITS)
+
+What does it mean to be an international lawyer? Understand the founding principles of international law. Apply the tools and techniques of legal reasoning to the international legal system. Understand how the system of international law works and form your own views through discussions of contemporary issues.
+
+[View Public International Law on our Module Directory](https://www1.essex.ac.uk/modules/Default.aspx?coursecode=LW902&year=25)
+
+COMPONENT 08: COMPULSORY
+
+Foundation Essay
+
+(0 CREDITS)
+
+The Foundation Essay is a diagnostic essay intended to provide an early opportunity to engage in legal analysis and writing. It is designed to provide students with an opportunity to learn and demonstrate independent learning, legal writing, research, methodologies and analysis, necessary for postgraduate study. The Foundation Essay is also a formative exercise for modules in the LLM International Law. The mark for the essay does not count towards the final assessment of the degree, but it is a compulsory piece of work.
+
+[View Foundation Essay on our Module Directory](https://www1.essex.ac.uk/modules/Default.aspx?coursecode=LW531&year=25)
+
+### Teaching
+
+Postgraduate students in Essex Law School usually attend two-hour workshops, or a one-hour lecture and one-hour seminar for each module each week.
+
+* Taught through small-group interactive seminars that foster critical debate and analysis* Teaching is supplemented by lectures, where appropriate* Postgraduates are welcome to join the numerous guest lectures held at the School yearly
+
+### Assessment
+
+Modules are assessed via a coursework, an examination, or a combination of the two.
+
+### Dissertation
+
+* Your dissertation is normally 12,000 words in length* You will have the freedom to select your own dissertation topic* A special dissertation module that offers guidance on topic selection and the writing process, as well as one-to-one supervision given from a member of academic staff
+
+## Fees and funding
+
+### Home/UK fee
+
+£10,500
+
+### International fee
+
+£22,750
+
+[Masters fees and funding information](https://www.essex.ac.uk/postgraduate/masters/fees-and-funding)
+
+[Research (e.g. PhD) fees and funding information](https://www.essex.ac.uk/postgraduate/research/fees-and-funding)
+
+## What's next
+
+### Open Days
+
+We hold [Open Days](https://www.essex.ac.uk/visit-us/open-days) for all our applicants throughout the year. Our Colchester Campus events are a great way to find out more about studying at Essex, and give you the chance to:
+
+* tour our campus and accommodation
+* find out answers to your questions about our courses, student finance, graduate employability, student support and more
+* meet our students and staff
+
+If the dates of our organised events aren’t suitable for you, feel free to get in touch by emailing [tours@essex.ac.uk](mailto:tours@essex.ac.uk) and we’ll arrange an individual campus tour for you.
+
+### 2025 Open Days (Colchester Campus)
+
+* [Saturday 21 June 2025 - June Open Day](https://www.essex.ac.uk/events/2025/06/21/open-day-june-25)
+* [Saturday 20 September 2025 - September Open Day](https://www.essex.ac.uk/events/2025/09/20/september-open-day-20%2C-d-%2C9%2C-d-%2C2025)
+* [Saturday 8 November 2025 - November Open Day](https://www.essex.ac.uk/events/2025/11/08/november-open-day-08%2C-d-%2C11%2C-d-%2C2025)
+
+[Open Day Registration](https://www.essex.ac.uk/forms/register-for-an-open-day)
+[Find out more](https://www.essex.ac.uk/visit-us/open-days)
+
+### Applying
+
+You can [apply for this postgraduate course online](https://www1.essex.ac.uk/pgapply/login.aspx). Before you apply, please check our information about [necessary documents](https://www.essex.ac.uk/postgraduate/masters/applying-to-essex#supdocs) that we'll ask you to provide as part of your application.
+
+We aim to respond to applications within two weeks. If we are able to offer you a place, you will be contacted via email.
+
+For information on our deadline to apply for this course, please see our ‘[how to apply](https://www.essex.ac.uk/postgraduate/masters/applying-to-essex)' information.
+
+You will need to provide a copy of your CV with your application.
+
+### Visit Colchester Campus
+
+Set within 200 acres of [award-winning](https://www.essex.ac.uk/news/2022/07/26/green-flag-2022) parkland - [Wivenhoe Park](https://www.essex.ac.uk/wivenhoe-park) and located two miles from the [historic city centre of Colchester](https://www.essex.ac.uk/life/colchester-campus/local-area) – England's oldest recorded development. Our Colchester Campus is also easily reached from London and Stansted Airport in under one hour.
+
+[Find out more](https://www.essex.ac.uk/life/colchester-campus)
+
+### Virtual tours
+
+If you live too far away to come to Essex (or have a busy lifestyle), no problem. Our 360 degree [virtual tour](https://www1.essex.ac.uk/virtual-tours/colchester) allows you to explore the Colchester Campus from the comfort of your home. Check out our accommodation options, facilities and social spaces.
+
+At Essex we pride ourselves on being a welcoming and inclusive student community. We offer a [wide range of support](https://www.essex.ac.uk/student/equality-and-diversity) to individuals and groups of student members who may have specific requirements, interests or responsibilities.
+
+*The University makes every effort to ensure that this information on its programme specification is accurate and up-to-date. Exceptionally it can be necessary to make changes, for example to courses, facilities or fees. Examples of such reasons might include, but are not limited to: strikes, other industrial action, staff illness, severe weather, fire, civil commotion, riot, invasion, terrorist attack or threat of terrorist attack (whether declared or not), natural disaster, restrictions imposed by government or public authorities, epidemic or pandemic disease, failure of public utilities or transport systems or the withdrawal/reduction of funding. Changes to courses may for example consist of variations to the content and method of delivery of programmes, courses and other services, to discontinue programmes, courses and other services and to merge or combine programmes or courses. The University will endeavour to keep such changes to a minimum, and will also keep students informed appropriately by updating our [programme specifications](http://www.essex.ac.uk/programmespecs/). The University would inform and engage with you if your course was to be discontinued, and would provide you with options, where appropriate, in line with our Compensation and Refund Policy.*
+
+*The full Procedures, Rules and Regulations of the University governing how it operates are set out in the Charter, Statutes and
+Ordinances and in the University Regulations, Policy and Procedures.*
+
+Ask us a question
+
+Want to quiz us about your course? Got a question that just needs answering? Get in touch with us on live chat!
+
+Talk to us on live chat
+[Sign up to hear about our courses](https://www.essex.ac.uk/forms/sign-up-to-hear-about-our-courses)
+
+[Click4Assistance UK Live Chat Software](https://click4assistance.co.uk/prod4_livechatsoftware_noscript.aspx)
+
+
+[Open Days
+
+Come see for yourself](https://www.essex.ac.uk/visit-us/open-days)
+[Read all about it
+
+Get a prospectus](https://www.essex.ac.uk/postgraduate/prospectus)
+[Study at Essex
+
+Find a course](https://www.essex.ac.uk/course-search)

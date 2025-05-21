@@ -1,0 +1,299 @@
+{
+  "page_url": "https://www.essex.ac.uk/student/professional-services/occupational-health-team",
+  "internal_links": [
+    "https://www.essex.ac.uk/-/media/documents/directories/occupational-health/students/occupational-health-student-clearance-guidance.pdf",
+    "https://www.essex.ac.uk/blog/student",
+    "https://www.essex.ac.uk/departments",
+    "https://www.essex.ac.uk/events",
+    "https://www.essex.ac.uk/governance-and-strategy/governance/key-dates",
+    "https://www.essex.ac.uk/life/for-all/languages-for-all",
+    "https://www.essex.ac.uk/news",
+    "https://www.essex.ac.uk/postgraduate/masters/fees-and-funding/scholarships-and-funding",
+    "https://www.essex.ac.uk/postgraduate/research/fees-and-funding/scholarships-and-funding",
+    "https://www.essex.ac.uk/search",
+    "https://www.essex.ac.uk/sport",
+    "https://www.essex.ac.uk/sport/",
+    "https://www.essex.ac.uk/staff/health-and-wellbeing",
+    "https://www.essex.ac.uk/staff/occupational-health-services/occupational-health-referrals",
+    "https://www.essex.ac.uk/staff/occupational-health-services/oh-student-services",
+    "https://www.essex.ac.uk/student/academic-appeals",
+    "https://www.essex.ac.uk/student/academic-offences",
+    "https://www.essex.ac.uk/student/academic-skills",
+    "https://www.essex.ac.uk/student/access-and-disability",
+    "https://www.essex.ac.uk/student/accommodation",
+    "https://www.essex.ac.uk/student/advice-and-support",
+    "https://www.essex.ac.uk/student/attendance-and-engagement",
+    "https://www.essex.ac.uk/student/attendance-and-engagement/absence",
+    "https://www.essex.ac.uk/student/awards-and-achievements",
+    "https://www.essex.ac.uk/student/benefits-and-council-tax",
+    "https://www.essex.ac.uk/student/buildings-and-maintenance",
+    "https://www.essex.ac.uk/student/careers",
+    "https://www.essex.ac.uk/student/changing-course",
+    "https://www.essex.ac.uk/student/childcare",
+    "https://www.essex.ac.uk/student/click-crowdfunding",
+    "https://www.essex.ac.uk/student/contractual-documents",
+    "https://www.essex.ac.uk/student/coursework",
+    "https://www.essex.ac.uk/student/dbs-check",
+    "https://www.essex.ac.uk/student/edi-resources",
+    "https://www.essex.ac.uk/student/emergencies",
+    "https://www.essex.ac.uk/student/equality-and-diversity",
+    "https://www.essex.ac.uk/student/essex-student-journal",
+    "https://www.essex.ac.uk/student/event",
+    "https://www.essex.ac.uk/student/exams",
+    "https://www.essex.ac.uk/student/exams-and-coursework",
+    "https://www.essex.ac.uk/student/extenuating-circumstances",
+    "https://www.essex.ac.uk/student/extra-learning",
+    "https://www.essex.ac.uk/student/faith",
+    "https://www.essex.ac.uk/student/fees",
+    "https://www.essex.ac.uk/student/fire-safety",
+    "https://www.essex.ac.uk/student/food-and-drink",
+    "https://www.essex.ac.uk/student/forums-and-networks",
+    "https://www.essex.ac.uk/student/freedom-of-information",
+    "https://www.essex.ac.uk/student/get-a-job",
+    "https://www.essex.ac.uk/student/get-application-support",
+    "https://www.essex.ac.uk/student/get-career-ready",
+    "https://www.essex.ac.uk/student/get-experience",
+    "https://www.essex.ac.uk/student/graduation",
+    "https://www.essex.ac.uk/student/health-and-safety",
+    "https://www.essex.ac.uk/student/health-and-safety/oh-student-services",
+    "https://www.essex.ac.uk/student/healthcare",
+    "https://www.essex.ac.uk/student/immigration-and-visas",
+    "https://www.essex.ac.uk/student/intermission",
+    "https://www.essex.ac.uk/student/international-students-careers",
+    "https://www.essex.ac.uk/student/it-services",
+    "https://www.essex.ac.uk/student/it-services/support",
+    "https://www.essex.ac.uk/student/learning-technologies",
+    "https://www.essex.ac.uk/student/leaving-or-returning",
+    "https://www.essex.ac.uk/student/loans",
+    "https://www.essex.ac.uk/student/managing-money",
+    "https://www.essex.ac.uk/student/media-centre/media-centre-services",
+    "https://www.essex.ac.uk/student/meet-the-careers-services-team",
+    "https://www.essex.ac.uk/student/mental-and-emotional-health",
+    "https://www.essex.ac.uk/student/mentoring",
+    "https://www.essex.ac.uk/student/modules",
+    "https://www.essex.ac.uk/student/money",
+    "https://www.essex.ac.uk/student/my-essex",
+    "https://www.essex.ac.uk/student/my-essex/documents",
+    "https://www.essex.ac.uk/student/national-money-events",
+    "https://www.essex.ac.uk/student/personal-tutor",
+    "https://www.essex.ac.uk/student/places-to-study",
+    "https://www.essex.ac.uk/student/post-and-property-services",
+    "https://www.essex.ac.uk/student/postgraduate-research",
+    "https://www.essex.ac.uk/student/previous-terms-and-conditions",
+    "https://www.essex.ac.uk/student/professional-services",
+    "https://www.essex.ac.uk/student/reassessment",
+    "https://www.essex.ac.uk/student/registration",
+    "https://www.essex.ac.uk/student/report",
+    "https://www.essex.ac.uk/student/resources/departmental-contact",
+    "https://www.essex.ac.uk/student/resources/student-handbooks",
+    "https://www.essex.ac.uk/student/rules-of-assessment",
+    "https://www.essex.ac.uk/student/safeguarding",
+    "https://www.essex.ac.uk/student/student-communities",
+    "https://www.essex.ac.uk/student/support-with-starting-your-own-business",
+    "https://www.essex.ac.uk/student/theatre-and-arts",
+    "https://www.essex.ac.uk/student/timetables/your-timetable",
+    "https://www.essex.ac.uk/student/travel-and-transport",
+    "https://www.essex.ac.uk/student/travel-and-transport/accessible-travel",
+    "https://www.essex.ac.uk/student/university-financial-support",
+    "https://www.essex.ac.uk/student/values",
+    "https://www.essex.ac.uk/student/voice",
+    "https://www.essex.ac.uk/study-abroad/essex-students",
+    "https://www.essex.ac.uk/sustainability",
+    "https://www.essex.ac.uk/undergraduate/fees-and-funding/scholarships-and-funding",
+    "https://www.essex.ac.uk/welcome"
+  ],
+  "sections": [
+    {
+      "title": "Occupational Health",
+      "level": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Occupational Health is part of the Workplace health, Safety and Wellbeing team. Our services are tailored to the health needs of employees and the potential hazards at work. We utilise various forms of health assessment including health questionnaires, consultation with an Occupational Health Adviser or physician:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "at the start of employment",
+            "for staff exposed to specific health hazards at work (health surveillance)",
+            "when injury or ill health results in absence from work",
+            "to resolve work issues related to a disability or medical condition"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "We aim to:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "prevent work-related ill health",
+            "facilitate rehabilitation and return to work following periods of illness or injury",
+            "promote physical and mental health and wellbeing"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "We offer advice and information on:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "the management of health problems at work, including reasonable work adjustments",
+            "rehabilitation and return to work plans following significant periods of sickness absence",
+            "correct posture for keyboard work",
+            "eyesight testing arrangements for staff who work with computers",
+            "promotion of health and wellbeing at work",
+            "arrangements for the provision of first aid throughout the University",
+            "legal responsibilities to protect the health of staff at work"
+          ]
+        }
+      ],
+      "children": [
+        {
+          "title": "Student services",
+          "level": 2,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "We provide services to certain students, primarily those who will be going on placements in health care settings. For these students, we provide:"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "pre-course health questionnaires to ensure any reasonable adjustments are in place for placements",
+                "clinics for vaccinations and/or blood tests as required for working in health care - we have created a guide to student clearance (.pdf) with more details.",
+                "advice for management of health problems that may affect studying and/or placements, including short-term injuries and illnesses."
+              ]
+            },
+            {
+              "type": "link",
+              "url": "https://www.essex.ac.uk/-/media/documents/directories/occupational-health/students/occupational-health-student-clearance-guidance.pdf",
+              "text": "guide to student clearance"
+            },
+            {
+              "type": "paragraph",
+              "text": "See our Student Services page for more information. Please send Occupational Health queries relating to or from students to studentoh@essex.ac.uk"
+            },
+            {
+              "type": "link",
+              "url": "https://www.essex.ac.uk/staff/occupational-health-services/oh-student-services",
+              "text": "Student Services"
+            },
+            {
+              "type": "link",
+              "url": "mailto:studentoh@essex.ac.uk",
+              "text": "studentoh@essex.ac.uk"
+            },
+            {
+              "type": "paragraph",
+              "text": "Also see"
+            },
+            {
+              "type": "paragraph",
+              "text": "Health and wellbeing for staff"
+            },
+            {
+              "type": "link",
+              "url": "https://www.essex.ac.uk/staff/health-and-wellbeing",
+              "text": "Health and wellbeing for staff"
+            },
+            {
+              "type": "paragraph",
+              "text": "Occupational Health referrals for staff"
+            },
+            {
+              "type": "link",
+              "url": "https://www.essex.ac.uk/staff/occupational-health-services/occupational-health-referrals",
+              "text": "Occupational Health referrals for staff"
+            },
+            {
+              "type": "paragraph",
+              "text": "Student Mental Health"
+            },
+            {
+              "type": "link",
+              "url": "https://www.essex.ac.uk/student/mental-and-emotional-health",
+              "text": "Student Mental Health"
+            },
+            {
+              "type": "paragraph",
+              "text": "OH student services"
+            },
+            {
+              "type": "link",
+              "url": "https://www.essex.ac.uk/student/health-and-safety/oh-student-services",
+              "text": "OH student services"
+            },
+            {
+              "type": "image",
+              "url": "https://www.essex.ac.uk/student/professional-services/assets/000.jpg",
+              "alt": "Arrow symbol"
+            },
+            {
+              "type": "paragraph",
+              "text": "Contact us"
+            },
+            {
+              "type": "paragraph",
+              "text": "Occupational Health team"
+            },
+            {
+              "type": "paragraph",
+              "text": "Telephone: 01206 872399"
+            },
+            {
+              "type": "paragraph",
+              "text": "Email: ohquery@essex.ac.uk"
+            },
+            {
+              "type": "link",
+              "url": "mailto:ohquery@essex.ac.uk",
+              "text": "ohquery@essex.ac.uk"
+            },
+            {
+              "type": "image",
+              "url": "https://www.essex.ac.uk/student/professional-services/assets/001.jpg",
+              "alt": ""
+            },
+            {
+              "type": "image",
+              "url": "https://www.essex.ac.uk/student/professional-services/assets/002.jpg",
+              "alt": ""
+            },
+            {
+              "type": "image",
+              "url": "https://www.essex.ac.uk/student/professional-services/assets/003.jpg",
+              "alt": ""
+            },
+            {
+              "type": "image",
+              "url": "https://www.essex.ac.uk/student/professional-services/assets/004.jpg",
+              "alt": ""
+            },
+            {
+              "type": "image",
+              "url": "https://www.essex.ac.uk/student/professional-services/assets/005.jpg",
+              "alt": ""
+            },
+            {
+              "type": "image",
+              "url": "https://www.essex.ac.uk/student/professional-services/assets/006.jpg",
+              "alt": ""
+            },
+            {
+              "type": "image",
+              "url": "https://www.essex.ac.uk/student/professional-services/assets/007.jpg",
+              "alt": ""
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}
